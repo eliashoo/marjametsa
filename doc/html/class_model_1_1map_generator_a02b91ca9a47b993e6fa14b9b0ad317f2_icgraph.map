@@ -1,0 +1,13 @@
+<map id="Model::mapGenerator::getTile" name="Model::mapGenerator::getTile">
+<area shape="rect" id="node2" href="$class_model_1_1map_processor.html#ae1e80cb097c8e31a337b3a20ff653cc2" title="Model::mapProcessor\l::calculateDistanceMap" alt="" coords="434,125,593,166"/>
+<area shape="rect" id="node3" href="$class_model_1_1map_processor.html#a7be8a27aaad96e187b4dba60fde5031a" title="Model::mapProcessor\l::placeEnemies" alt="" coords="876,68,1025,109"/>
+<area shape="rect" id="node4" href="$class_model_1_1map_processor.html#a3719cc265240be889e98f9830602a067" title="Model::mapProcessor\l::getMedialMap" alt="" coords="657,68,807,109"/>
+<area shape="rect" id="node5" href="$class_model_1_1park_space_inserter.html#ab81abccc02f65eed8d54e0d56b234e18" title="Model::parkSpaceInserter\l::floodFill" alt="" coords="205,352,375,393"/>
+<area shape="rect" id="node6" href="$class_model_1_1park_space_inserter.html#ada0688360de1fb7d5bd138f2f645bea6" title="Model::parkSpaceInserter\l::removeBlockedSpaces" alt="" coords="428,358,599,400"/>
+<area shape="rect" id="node8" href="$class_model_1_1map_generator.html#a08a1dc669cda9401647f81d61611931d" title="Generate new hall with enemyCount. " alt="" coords="1084,325,1231,366"/>
+<area shape="rect" id="node9" href="$class_model_1_1map_generator.html#a918049786b708772ca97df76389955a7" title="Model::mapGenerator\l::getClosestEdge" alt="" coords="217,169,363,210"/>
+<area shape="rect" id="node11" href="$class_model_1_1map_generator.html#a92598d66736c2be4ca83aeedfe478b9d" title="Model::mapGenerator\l::GetSurroundingWallCount" alt="" coords="200,234,380,276"/>
+<area shape="rect" id="node12" href="$class_model_1_1park_space_inserter.html#a60ef5f3d1e5b3b726cc1ec9d4a200151" title="Model::parkSpaceInserter\l::getWallTiles" alt="" coords="428,293,599,334"/>
+<area shape="rect" id="node7" href="$class_model_1_1park_space_inserter.html#a85f30f97e1864f0c4b3afe8f8dea7ae3" title="Model::parkSpaceInserter\l::addSpaces" alt="" coords="865,325,1036,366"/>
+<area shape="rect" id="node10" href="$class_model_1_1park_space_inserter.html#a20265678d0e7cfc25daef80afaa1ba86" title="Model::parkSpaceInserter\l::addParkingSpaces_" alt="" coords="647,293,817,334"/>
+</map>

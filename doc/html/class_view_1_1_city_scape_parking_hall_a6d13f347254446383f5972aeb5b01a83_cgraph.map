@@ -1,0 +1,8 @@
+<map id="View::CityScapeParkingHall::updateStatusDisplay" name="View::CityScapeParkingHall::updateStatusDisplay">
+<area shape="rect" id="node2" href="$class_view_1_1_city_scape_status_display.html#a7c4b61a061562d9f0b2364c95cc55609" title="View::CityScapeStatusDisplay\l::getEnemyActivity" alt="" coords="237,5,436,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_city_scape_status_display.html#ae6e22300979f1bb7517db2c72d338b77" title="View::CityScapeStatusDisplay\l::getName" alt="" coords="237,71,436,112"/>
+<area shape="rect" id="node4" href="$class_view_1_1_city_scape_status_display.html#a0a2b02d8b7d878ba822822f4d71f40d6" title="View::CityScapeStatusDisplay\l::getParkedCars" alt="" coords="237,136,436,177"/>
+<area shape="rect" id="node5" href="$class_view_1_1_city_scape_status_display.html#ad8a0b28cc0ebb4c212c0fb3c9c8a3a9c" title="View::CityScapeStatusDisplay\l::getParkingSpaces" alt="" coords="237,201,436,243"/>
+<area shape="rect" id="node6" href="$class_view_1_1_city_scape_status_display.html#afaae08f29892d84518b12124292e14ab" title="View::CityScapeStatusDisplay\l::getWorth" alt="" coords="237,267,436,308"/>
+<area shape="rect" id="node7" href="$class_view_1_1_city_scape_status_display.html#ac5685e881d2b5797c52e3dcde72c90b1" title="View::CityScapeStatusDisplay\l::setFieldValues" alt="" coords="237,332,436,373"/>
+</map>

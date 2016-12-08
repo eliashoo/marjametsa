@@ -1,0 +1,4 @@
+<map id="View::ActionScene::enemyKilled" name="View::ActionScene::enemyKilled">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#aad620de6507ef1d889d079eb8fccae34" title="View::ActionScene::\lremoveDeadEnemy" alt="" coords="227,5,367,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene_big_explosion.html#a414c6886ec563230da882dc949c61143" title="View::ActionSceneBigExplosion\l::setPosition" alt="" coords="193,71,401,112"/>
+</map>

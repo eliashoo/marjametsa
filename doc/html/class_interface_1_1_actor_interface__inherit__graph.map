@@ -1,0 +1,4 @@
+<map id="Interface::ActorInterface" name="Interface::ActorInterface">
+<area shape="rect" id="node2" href="$class_model_1_1_cyber_teekkari.html" title="{Model::CyberTeekkari\n|&#45; alive_\l&#45; hitPoints_\l&#45; money_\l&#45; upgrades_\l&#45; weaponSlot1_\l&#45; weaponSlot2_\l|+ CyberTeekkari()\l+ isDead()\l+ getHitPoints()\l+ getMoney()\l+ fullHeal()\l+ getWeapon()\l+ getUpgrades()\l+ getStat()\l+ setDead()\l+ setAlive()\land 8 more...\l}" alt="" coords="5,299,153,597"/>
+<area shape="rect" id="node3" href="$class_model_1_1_player.html" title="{Model::Player\n|&#45; alive_\l&#45; hitPoints_\l&#45; money_\l&#45; upgrades_\l&#45; weaponSlot1_\l&#45; weaponSlot2_\l&#45; turnIncome_\l|+ Player()\l+ isDead()\l+ getHitPoints()\l+ getMoney()\l+ fullHeal()\l+ getWeapon()\l+ getStat()\l+ getUpgrades()\l+ reloadWeapon()\l+ getTurnIncome()\land 11 more...\l}" alt="" coords="177,292,304,604"/>
+</map>

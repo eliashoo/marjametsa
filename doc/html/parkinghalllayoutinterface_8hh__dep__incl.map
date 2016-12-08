@@ -1,0 +1,22 @@
+<map id="Interface/parkinghalllayoutinterface.hh" name="Interface/parkinghalllayoutinterface.hh">
+<area shape="rect" id="node2" href="$modelinterface_8hh.html" title="Määrittelee modellin operaatioiden rajapintaluokan. " alt="" coords="274,80,451,107"/>
+<area shape="rect" id="node3" href="$controllerinterface_8hh.html" title="Interface/controllerinterface.hh" alt="" coords="167,155,361,181"/>
+<area shape="rect" id="node7" href="$model_8hh.html" title="Model/model.hh" alt="" coords="423,229,537,256"/>
+<area shape="rect" id="node9" href="$view_8hh.html" title="View/view.hh" alt="" coords="127,229,223,256"/>
+<area shape="rect" id="node11" href="$viewinterface_8hh.html" title="Määrittelee näkymän operaatioiden rajapintaluokan. " alt="" coords="31,80,198,107"/>
+<area shape="rect" id="node12" href="$roomgenerator_8hh.html" title="Model/roomgenerator.hh" alt="" coords="913,155,1076,181"/>
+<area shape="rect" id="node16" href="$roomgenerator_8cc.html" title="Model/roomgenerator.cc" alt="" coords="561,229,724,256"/>
+<area shape="rect" id="node17" href="$mapprocessor_8hh.html" title="Model/mapprocessor.hh" alt="" coords="795,80,957,107"/>
+<area shape="rect" id="node18" href="$layoutgenerator_8hh.html" title="Model/layoutgenerator.hh" alt="" coords="1032,80,1200,107"/>
+<area shape="rect" id="node19" href="$parkspaceinserter_8hh.html" title="Model/parkspaceinserter.hh" alt="" coords="1225,80,1407,107"/>
+<area shape="rect" id="node20" href="$actionscene_8hh.html" title="View/actionscene.hh" alt="" coords="475,80,618,107"/>
+<area shape="rect" id="node21" href="$actionscene_8cc.html" title="View/actionscene.cc" alt="" coords="517,155,659,181"/>
+<area shape="rect" id="node4" href="$controller_8hh.html" title="Controller/controller.hh" alt="" coords="247,229,399,256"/>
+<area shape="rect" id="node5" href="$controller_8cc.html" title="Controller/controller.cc" alt="" coords="573,304,725,331"/>
+<area shape="rect" id="node6" href="$main_8cc.html" title="main.cc" alt="" coords="289,304,357,331"/>
+<area shape="rect" id="node8" href="$model_8cc.html" title="Model/model.cc" alt="" coords="845,304,960,331"/>
+<area shape="rect" id="node10" href="$view_8cc.html" title="View/view.cc" alt="" coords="127,304,223,331"/>
+<area shape="rect" id="node13" href="$layoutgenerator_8cc.html" title="Model/layoutgenerator.cc" alt="" coords="1036,229,1204,256"/>
+<area shape="rect" id="node14" href="$mapprocessor_8cc.html" title="Model/mapprocessor.cc" alt="" coords="749,229,910,256"/>
+<area shape="rect" id="node15" href="$parkspaceinserter_8cc.html" title="Model/parkspaceinserter.cc" alt="" coords="1229,229,1411,256"/>
+</map>

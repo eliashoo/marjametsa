@@ -1,0 +1,4 @@
+<map id="Model::Player::setDead" name="Model::Player::setDead">
+<area shape="rect" id="node2" href="$class_model_1_1_player.html#a0470a457ee9b06bb927b7304df06cad4" title="Model::Player::receivedHit" alt="" coords="212,13,385,39"/>
+<area shape="rect" id="node3" href="$class_model_1_1_player_party.html#aa1e19103d6fa60e0d9778011d68c6174" title="Model::PlayerParty\l::actorHit" alt="" coords="433,5,567,47"/>
+</map>

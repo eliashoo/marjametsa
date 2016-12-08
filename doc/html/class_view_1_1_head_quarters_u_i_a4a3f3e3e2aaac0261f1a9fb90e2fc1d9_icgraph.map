@@ -1,0 +1,6 @@
+<map id="View::HeadQuartersUI::UIBuyUpgradeSignal" name="View::HeadQuartersUI::UIBuyUpgradeSignal">
+<area shape="rect" id="node2" href="$class_view_1_1_head_quarters_u_i.html#aa3952e9dea601b9d54dcfebaf658b685" title="View::HeadQuartersUI\l::buyUpgradeButtonPushed" alt="" coords="204,5,385,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_head_quarters_u_i.html#a504906d7f958448301b500a3762ff618" title="View::HeadQuartersUI\l::connectShopUI" alt="" coords="700,5,851,47"/>
+<area shape="rect" id="node5" href="$class_view_1_1_head_quarters_u_i.html#a27b2fed9322bb80d6633f442a3fd9035" title="View::HeadQuartersUI\l::cyberListViewItemDoubleClicked" alt="" coords="433,35,652,76"/>
+<area shape="rect" id="node4" href="$class_view_1_1_head_quarters_u_i.html#a98db9788c668433314da83b183101f0c" title="View::HeadQuartersUI\l::HeadQuartersUI" alt="" coords="899,5,1049,47"/>
+</map>

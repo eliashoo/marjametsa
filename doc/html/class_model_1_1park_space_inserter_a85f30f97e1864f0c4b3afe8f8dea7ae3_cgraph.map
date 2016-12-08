@@ -1,0 +1,15 @@
+<map id="Model::parkSpaceInserter::addSpaces" name="Model::parkSpaceInserter::addSpaces">
+<area shape="rect" id="node2" href="$class_model_1_1park_space_inserter.html#a20265678d0e7cfc25daef80afaa1ba86" title="Model::parkSpaceInserter\l::addParkingSpaces_" alt="" coords="443,355,613,396"/>
+<area shape="rect" id="node12" href="$class_model_1_1park_space_inserter.html#ada0688360de1fb7d5bd138f2f645bea6" title="Model::parkSpaceInserter\l::removeBlockedSpaces" alt="" coords="224,195,395,236"/>
+<area shape="rect" id="node3" href="$class_model_1_1map_generator.html#a918049786b708772ca97df76389955a7" title="Model::mapGenerator\l::getClosestEdge" alt="" coords="673,443,820,484"/>
+<area shape="rect" id="node5" href="$class_model_1_1map_generator.html#aaac1161126a56490862e3b5fffffbded" title="Model::mapGenerator\l::indexAt" alt="" coords="897,340,1043,382"/>
+<area shape="rect" id="node7" href="$class_model_1_1park_space_inserter.html#a60ef5f3d1e5b3b726cc1ec9d4a200151" title="Model::parkSpaceInserter\l::getWallTiles" alt="" coords="661,508,832,550"/>
+<area shape="rect" id="node9" href="$class_model_1_1map_generator.html#af153f95aea5145100546ad86ac4b9d02" title="Model::mapGenerator\l::indexToX" alt="" coords="673,260,820,302"/>
+<area shape="rect" id="node10" href="$class_model_1_1map_generator.html#a73020896792ce1a6aa4dd0ce2b9c5caf" title="Model::mapGenerator\l::indexToY" alt="" coords="673,195,820,236"/>
+<area shape="rect" id="node11" href="$class_model_1_1map_generator.html#a180f1510b8d7eb4af5dc919eeaddfa69" title="Model::mapGenerator\l::setTile" alt="" coords="673,326,820,367"/>
+<area shape="rect" id="node4" href="$class_model_1_1map_generator.html#a02b91ca9a47b993e6fa14b9b0ad317f2" title="Get tile from point in tile coordinates. " alt="" coords="1108,399,1255,440"/>
+<area shape="rect" id="node6" href="$class_model_1_1map_generator.html#a244ad56297f00ce2ab892d3b2a14ffac" title="Model::mapGenerator\l::isInMapRange" alt="" coords="1108,486,1255,527"/>
+<area shape="rect" id="node8" href="$class_model_1_1map_generator.html#a92598d66736c2be4ca83aeedfe478b9d" title="Model::mapGenerator\l::GetSurroundingWallCount" alt="" coords="880,508,1060,550"/>
+<area shape="rect" id="node13" href="$class_model_1_1park_space_inserter.html#ab81abccc02f65eed8d54e0d56b234e18" title="Model::parkSpaceInserter\l::floodFill" alt="" coords="443,136,613,178"/>
+<area shape="rect" id="node14" href="$class_model_1_1park_space_inserter.html#ab86507374576bb3c92a1356507065806" title="Model::parkSpaceInserter\l::getRelativeDirection" alt="" coords="661,78,832,119"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Model::mapGenerator::GetSurroundingWallCount" name="Model::mapGenerator::GetSurroundingWallCount">
+<area shape="rect" id="node2" href="$class_model_1_1map_processor.html#ae1e80cb097c8e31a337b3a20ff653cc2" title="Model::mapProcessor\l::calculateDistanceMap" alt="" coords="239,35,398,76"/>
+<area shape="rect" id="node5" href="$class_model_1_1map_generator.html#a08a1dc669cda9401647f81d61611931d" title="Generate new hall with enemyCount. " alt="" coords="889,123,1036,164"/>
+<area shape="rect" id="node6" href="$class_model_1_1park_space_inserter.html#a60ef5f3d1e5b3b726cc1ec9d4a200151" title="Model::parkSpaceInserter\l::getWallTiles" alt="" coords="233,152,404,193"/>
+<area shape="rect" id="node3" href="$class_model_1_1map_processor.html#a7be8a27aaad96e187b4dba60fde5031a" title="Model::mapProcessor\l::placeEnemies" alt="" coords="681,5,831,47"/>
+<area shape="rect" id="node4" href="$class_model_1_1map_processor.html#a3719cc265240be889e98f9830602a067" title="Model::mapProcessor\l::getMedialMap" alt="" coords="463,35,612,76"/>
+<area shape="rect" id="node7" href="$class_model_1_1park_space_inserter.html#a20265678d0e7cfc25daef80afaa1ba86" title="Model::parkSpaceInserter\l::addParkingSpaces_" alt="" coords="452,152,623,193"/>
+<area shape="rect" id="node8" href="$class_model_1_1park_space_inserter.html#a85f30f97e1864f0c4b3afe8f8dea7ae3" title="Model::parkSpaceInserter\l::addSpaces" alt="" coords="671,152,841,193"/>
+</map>

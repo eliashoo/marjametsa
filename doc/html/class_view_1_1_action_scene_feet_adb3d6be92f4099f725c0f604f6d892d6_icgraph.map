@@ -1,0 +1,7 @@
+<map id="View::ActionSceneFeet::nextFrame" name="View::ActionSceneFeet::nextFrame">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene_n_p_c.html#a90dd5d58856a5c950c68a667037169e2" title="View::ActionSceneNPC\l::step" alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_action_scene_p_c.html#ad27f69a4e9c1a4f89e7306294d182d51" title="View::ActionScenePC\l::step" alt="" coords="216,71,367,112"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene_n_p_c.html#a6cee892789b8a4623ea1fbec509b538d" title="View::ActionSceneNPC\l::ActionSceneNPC" alt="" coords="419,5,577,47"/>
+<area shape="rect" id="node5" href="$class_view_1_1_action_scene_p_c.html#a714b6915be90d0961d30be1cc19056b9" title="View::ActionScenePC\l::ActionScenePC" alt="" coords="423,71,573,112"/>
+<area shape="rect" id="node6" href="$class_view_1_1_action_scene_p_c.html#a7afaff64d6ed89491e87924461270084" title="View::ActionScenePC\l::type" alt="" coords="423,136,573,177"/>
+</map>

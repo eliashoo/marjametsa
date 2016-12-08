@@ -1,0 +1,6 @@
+<map id="View::ActionScene::enemyWandered" name="View::ActionScene::enemyWandered">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene_n_p_c.html#a2d64f4b6f2eb5eedb8360fb8dc33b606" title="View::ActionSceneNPC\l::moveToPoint" alt="" coords="193,5,352,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene_n_p_c.html#a63c01e4d67db25532448053814a4a917" title="View::ActionSceneNPC\l::setAIMode" alt="" coords="193,71,352,112"/>
+<area shape="rect" id="node4" href="$class_view_1_1_action_scene_n_p_c.html#a32b28c35cccc25fa39d60462235776f3" title="View::ActionSceneNPC\l::setRunSpeed" alt="" coords="400,71,559,112"/>
+<area shape="rect" id="node5" href="$class_view_1_1_action_scene_feet.html#a160793a00dcf4b16bcda158571f56773" title="View::ActionSceneFeet\l::setRunning" alt="" coords="607,71,765,112"/>
+</map>

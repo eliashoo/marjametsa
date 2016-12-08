@@ -1,0 +1,5 @@
+<map id="Model::mapGenerator" name="Model::mapGenerator">
+<area shape="rect" id="node8" href="$class_model_1_1layout_generator.html" title="{Model::layoutGenerator\n||+ layoutGenerator()\l+ generateHall()\l&#45; roomOk()\l&#45; randomRoom()\l}" alt="" coords="5,762,163,883"/>
+<area shape="rect" id="node9" href="$class_model_1_1park_space_inserter.html" title="{Model::parkSpaceInserter\n||+ parkSpaceInserter()\l+ addSpaces()\l&#45; addParkingSpaces_()\l&#45; getWallTiles()\l&#45; removeBlockedSpaces()\l&#45; floodFill()\l&#45; getRelativeDirection()\l}" alt="" coords="301,740,472,905"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_parkin_hall_layout_interface.html" title="{Interface::ParkinHallLayout\lInterface\n||+ ParkinHallLayoutInterface()\l+ generateHall()\l+ getLayout()\l+ getTile()\l+ getStartX()\l+ getStartY()\l+ getHeight()\l+ getWidth()\l}" alt="" coords="73,5,263,200"/>
+</map>

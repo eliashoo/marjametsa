@@ -1,0 +1,4 @@
+<map id="Model::PlayerParty::hireCyborg" name="Model::PlayerParty::hireCyborg">
+<area shape="rect" id="node2" href="$class_model_1_1_player_party.html#ab33abac5217cb3fa2bda54d9f307d220" title="Model::PlayerParty\l::getActor" alt="" coords="194,5,327,47"/>
+<area shape="rect" id="node3" href="$class_model_1_1_cyber_teekkari.html#a9176a231eb370bd6baa2b0a11462057b" title="Model::CyberTeekkari\l::setWeapon" alt="" coords="187,71,335,112"/>
+</map>

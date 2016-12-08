@@ -1,0 +1,7 @@
+<map id="View::ActionScenePC::type" name="View::ActionScenePC::type">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene_p_c.html#ab0c2529512176e7ac24a155e6e3b4b30" title="View::ActionScenePC\l::hideMuzzle" alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene_p_c.html#a3a24db19c0ac423905ab2cb31d387575" title="View::ActionScenePC\l::shoot" alt="" coords="204,71,355,112"/>
+<area shape="rect" id="node4" href="$class_view_1_1_action_scene_p_c.html#ad27f69a4e9c1a4f89e7306294d182d51" title="View::ActionScenePC\l::step" alt="" coords="204,136,355,177"/>
+<area shape="rect" id="node5" href="$class_view_1_1_action_scene_feet.html#adb3d6be92f4099f725c0f604f6d892d6" title="View::ActionSceneFeet\l::nextFrame" alt="" coords="403,103,561,144"/>
+<area shape="rect" id="node6" href="$class_view_1_1_action_scene_feet.html#a74dfcd6e4a0b5d3fc3dd27079107ecdc" title="View::ActionSceneFeet\l::setPosition" alt="" coords="403,168,561,209"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Model::mapGenerator::setTile" name="Model::mapGenerator::setTile">
+<area shape="rect" id="node2" href="$class_model_1_1park_space_inserter.html#a20265678d0e7cfc25daef80afaa1ba86" title="Model::parkSpaceInserter\l::addParkingSpaces_" alt="" coords="419,157,589,198"/>
+<area shape="rect" id="node4" href="$class_model_1_1map_generator.html#a08a1dc669cda9401647f81d61611931d" title="Generate new hall with enemyCount. " alt="" coords="856,121,1003,162"/>
+<area shape="rect" id="node5" href="$class_model_1_1park_space_inserter.html#ab81abccc02f65eed8d54e0d56b234e18" title="Model::parkSpaceInserter\l::floodFill" alt="" coords="200,56,371,97"/>
+<area shape="rect" id="node6" href="$class_model_1_1park_space_inserter.html#ada0688360de1fb7d5bd138f2f645bea6" title="Model::parkSpaceInserter\l::removeBlockedSpaces" alt="" coords="419,92,589,133"/>
+<area shape="rect" id="node7" href="$class_model_1_1layout_generator.html#a6b14394cdb9e6040233a91220cddcc93" title="Model::layoutGenerator\l::generateHall" alt="" coords="644,201,801,242"/>
+<area shape="rect" id="node8" href="$class_model_1_1map_processor.html#a7be8a27aaad96e187b4dba60fde5031a" title="Model::mapProcessor\l::placeEnemies" alt="" coords="211,274,360,316"/>
+<area shape="rect" id="node3" href="$class_model_1_1park_space_inserter.html#a85f30f97e1864f0c4b3afe8f8dea7ae3" title="Model::parkSpaceInserter\l::addSpaces" alt="" coords="637,121,808,162"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="View/actionscenefeet.hh" name="View/actionscenefeet.hh">
+<area shape="rect" id="node2" href="$actionscenepc_8hh.html" title="View/actionscenepc.hh" alt="" coords="257,80,413,107"/>
+<area shape="rect" id="node3" href="$actionscene_8hh.html" title="View/actionscene.hh" alt="" coords="433,229,576,256"/>
+<area shape="rect" id="node11" href="$actionscenenpc_8hh.html" title="View/actionscenenpc.hh" alt="" coords="546,80,709,107"/>
+<area shape="rect" id="node15" href="$actionscenefeet_8cc.html" title="View/actionscenefeet.cc" alt="" coords="733,80,895,107"/>
+<area shape="rect" id="node8" href="$actionsceneenemyprojectile_8hh.html" title="View/actionsceneenemyprojectile.hh" alt="" coords="5,155,239,181"/>
+<area shape="rect" id="node10" href="$actionscenepc_8cc.html" title="View/actionscenepc.cc" alt="" coords="315,155,471,181"/>
+<area shape="rect" id="node4" href="$view_8hh.html" title="View/view.hh" alt="" coords="385,304,481,331"/>
+<area shape="rect" id="node7" href="$actionscene_8cc.html" title="View/actionscene.cc" alt="" coords="505,304,648,331"/>
+<area shape="rect" id="node5" href="$main_8cc.html" title="main.cc" alt="" coords="345,379,413,405"/>
+<area shape="rect" id="node6" href="$view_8cc.html" title="View/view.cc" alt="" coords="438,379,534,405"/>
+<area shape="rect" id="node9" href="$actionsceneenemyprojectile_8cc.html" title="View/actionsceneenemyprojectile.cc" alt="" coords="5,229,239,256"/>
+<area shape="rect" id="node12" href="$actionscenebigexplosion_8hh.html" title="View/actionscenebigexplosion.hh" alt="" coords="597,155,812,181"/>
+<area shape="rect" id="node14" href="$actionscenenpc_8cc.html" title="View/actionscenenpc.cc" alt="" coords="837,155,999,181"/>
+<area shape="rect" id="node13" href="$actionscenebigexplosion_8cc.html" title="View/actionscenebigexplosion.cc" alt="" coords="600,229,815,256"/>
+</map>

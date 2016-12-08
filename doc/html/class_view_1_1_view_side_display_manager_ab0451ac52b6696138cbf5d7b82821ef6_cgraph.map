@@ -1,0 +1,5 @@
+<map id="View::ViewSideDisplayManager::missionStartWeaponSelection" name="View::ViewSideDisplayManager::missionStartWeaponSelection">
+<area shape="rect" id="node2" href="$class_view_1_1_view_side_display_manager.html#a5cb0bcdc7216d8bbb5e1e07a2f229048" title="View::ViewSideDisplayManager\l::setSelectedWeapon" alt="" coords="259,5,464,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_view_side_display_manager.html#a03bec5a21a27ffb9d4252fd304b003e8" title="View::ViewSideDisplayManager\l::getDisplay" alt="" coords="512,5,717,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_view_side_display_manager.html#abca30c6d51d72600c52da502dcd61093" title="View::ViewSideDisplayManager\l::getIndex" alt="" coords="765,5,971,47"/>
+</map>

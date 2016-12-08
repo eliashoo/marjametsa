@@ -1,0 +1,4 @@
+<map id="View::ActionScene::updateEnemyLineOfSight" name="View::ActionScene::updateEnemyLineOfSight">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a2da7a8314a9d50cdccf82159f58e5097" title="View::ActionScene::\lspawnEnemy" alt="" coords="223,5,363,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#af2fabc7baae61ac07ca1a0a5d46814cf" title="View::ActionScene::\laddEnemies" alt="" coords="411,5,551,47"/>
+</map>

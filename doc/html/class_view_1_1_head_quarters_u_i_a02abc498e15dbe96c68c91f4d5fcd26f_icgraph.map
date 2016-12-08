@@ -1,0 +1,5 @@
+<map id="View::HeadQuartersUI::UISellWeaponSignal" name="View::HeadQuartersUI::UISellWeaponSignal">
+<area shape="rect" id="node2" href="$class_view_1_1_head_quarters_u_i.html#a3e01c68b5fdd117642dd01db0465605c" title="View::HeadQuartersUI\l::sellWeaponButtonPushed" alt="" coords="204,5,384,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_head_quarters_u_i.html#a504906d7f958448301b500a3762ff618" title="View::HeadQuartersUI\l::connectShopUI" alt="" coords="432,5,583,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_head_quarters_u_i.html#a98db9788c668433314da83b183101f0c" title="View::HeadQuartersUI\l::HeadQuartersUI" alt="" coords="631,5,781,47"/>
+</map>

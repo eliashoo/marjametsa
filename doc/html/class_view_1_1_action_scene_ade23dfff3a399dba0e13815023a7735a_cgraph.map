@@ -1,0 +1,5 @@
+<map id="View::ActionScene::checkWalkingIntoWalls" name="View::ActionScene::checkWalkingIntoWalls">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#af1d81cee559dc8f92ab1be0128d87dbb" title="View::ActionScene::\lcheckBlockedDirection" alt="" coords="212,64,367,105"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene_p_c.html#ab11636de093176287ad05e2c12c33ca1" title="View::ActionScenePC\l::getId" alt="" coords="415,5,565,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_action_scene_p_c.html#a55bd5a020b147cf53f8f37ff664489a0" title="View::ActionScenePC\l::obstacleHit" alt="" coords="415,71,565,112"/>
+</map>

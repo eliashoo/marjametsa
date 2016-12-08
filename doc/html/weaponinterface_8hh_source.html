@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.12"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>MarjametsaPark: Interface/weaponinterface.hh lähdekooditiedosto</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">MarjametsaPark
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generoinut Doxygen 1.8.12 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','Etsi');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('weaponinterface_8hh_source.html','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">weaponinterface.hh</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="weaponinterface_8hh.html">Siirry tämän tiedoston dokumentaatioon.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#ifndef WEAPONINTERFACE_HH</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define WEAPONINTERFACE_HH</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="equipmentinterface_8hh.html">equipmentinterface.hh</a>&quot;</span></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_interface.html">Interface</a> {</div><div class="line"><a name="l00006"></a><span class="lineno"><a class="line" href="class_interface_1_1_weapon_interface.html">    6</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_interface_1_1_weapon_interface.html">WeaponInterface</a> : <span class="keyword">public</span> <span class="keyword">virtual</span> <a class="code" href="class_interface_1_1_equipment_interface.html">Interface::EquipmentInterface</a></div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;{</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    <span class="keyword">public</span>:</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        <a class="code" href="class_interface_1_1_weapon_interface.html#ad371404b16c907ea172c5565818d8ec0">WeaponInterface</a>() = <span class="keywordflow">default</span>;</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;        <span class="keyword">virtual</span> <a class="code" href="class_interface_1_1_weapon_interface.html#a1a1d9457b0f319179231905da724908a">~WeaponInterface</a>() = <span class="keywordflow">default</span>;</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;        <span class="keyword">virtual</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_weapon_interface.html#a484ea162b59d690695f57edca3e0016c">getAmmo</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;        <span class="keyword">virtual</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_weapon_interface.html#ab1436c58ed86fcdd992fb92624bee23c">getMaximumAmmoCapacity</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        <span class="keyword">virtual</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_weapon_interface.html#a44fd2b5b05179a167ea103c3b3078e67">getRange</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;        <span class="keyword">virtual</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_weapon_interface.html#af329fa551d319a3353156f0d22edc22d">getDamage</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        <span class="keyword">virtual</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_weapon_interface.html#afcf85c9647e79c5a674c36af9fc31ac7">getRate</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;        <span class="keyword">virtual</span> <span class="keywordtype">double</span> <a class="code" href="class_interface_1_1_weapon_interface.html#a09bfb9be3fb30fb43dd472a7c705ddf6">getAccuracy</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;        <span class="keyword">virtual</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_weapon_interface.html#a0fba650c5f1522f7d43d3de7d46090a8">getMinimumTechLvl</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;};</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;} <span class="comment">// Interface</span></div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="preprocessor">#endif // WEAPONINTERFACE_HH</span></div><div class="ttc" id="equipmentinterface_8hh_html"><div class="ttname"><a href="equipmentinterface_8hh.html">equipmentinterface.hh</a></div><div class="ttdoc">Määrittelee yhden tavaran (Equipment) operaatioiden rajapintaluokan. </div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_a1a1d9457b0f319179231905da724908a"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#a1a1d9457b0f319179231905da724908a">Interface::WeaponInterface::~WeaponInterface</a></div><div class="ttdeci">virtual ~WeaponInterface()=default</div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_a09bfb9be3fb30fb43dd472a7c705ddf6"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#a09bfb9be3fb30fb43dd472a7c705ddf6">Interface::WeaponInterface::getAccuracy</a></div><div class="ttdeci">virtual double getAccuracy() const =0</div><div class="ttdoc">getAccuracy palauttaa equipmentin ampumisnopeuden. </div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_a484ea162b59d690695f57edca3e0016c"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#a484ea162b59d690695f57edca3e0016c">Interface::WeaponInterface::getAmmo</a></div><div class="ttdeci">virtual unsigned int getAmmo() const =0</div><div class="ttdoc">getAmmo palauttaa sen hetkisen määrän ammuksia. </div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html">Interface::WeaponInterface</a></div><div class="ttdef"><b>Definition:</b> <a href="weaponinterface_8hh_source.html#l00006">weaponinterface.hh:6</a></div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_a44fd2b5b05179a167ea103c3b3078e67"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#a44fd2b5b05179a167ea103c3b3078e67">Interface::WeaponInterface::getRange</a></div><div class="ttdeci">virtual unsigned int getRange() const =0</div><div class="ttdoc">getRange </div></div>
+<div class="ttc" id="namespace_interface_html"><div class="ttname"><a href="namespace_interface.html">Interface</a></div><div class="ttdef"><b>Definition:</b> <a href="actorinterface_8hh_source.html#l00011">actorinterface.hh:11</a></div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_ad371404b16c907ea172c5565818d8ec0"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#ad371404b16c907ea172c5565818d8ec0">Interface::WeaponInterface::WeaponInterface</a></div><div class="ttdeci">WeaponInterface()=default</div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_ab1436c58ed86fcdd992fb92624bee23c"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#ab1436c58ed86fcdd992fb92624bee23c">Interface::WeaponInterface::getMaximumAmmoCapacity</a></div><div class="ttdeci">virtual unsigned int getMaximumAmmoCapacity() const =0</div><div class="ttdoc">getMaximumAmmoCapacity palauttaa ammuksien mahdollisen maksimimäärän. </div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_a0fba650c5f1522f7d43d3de7d46090a8"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#a0fba650c5f1522f7d43d3de7d46090a8">Interface::WeaponInterface::getMinimumTechLvl</a></div><div class="ttdeci">virtual unsigned int getMinimumTechLvl() const =0</div><div class="ttdoc">getMinimumTechLvl palauttaa equipmentin vaadittavan mintechlevelin, joka vaaditaan kyseisen equipment...</div></div>
+<div class="ttc" id="class_interface_1_1_equipment_interface_html"><div class="ttname"><a href="class_interface_1_1_equipment_interface.html">Interface::EquipmentInterface</a></div><div class="ttdoc">EquipmentInterface on rajapintaluokka, josta peritään tavaroita (Equipment). </div><div class="ttdef"><b>Definition:</b> <a href="equipmentinterface_8hh_source.html#l00012">equipmentinterface.hh:12</a></div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_afcf85c9647e79c5a674c36af9fc31ac7"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#afcf85c9647e79c5a674c36af9fc31ac7">Interface::WeaponInterface::getRate</a></div><div class="ttdeci">virtual unsigned int getRate() const =0</div><div class="ttdoc">getRate </div></div>
+<div class="ttc" id="class_interface_1_1_weapon_interface_html_af329fa551d319a3353156f0d22edc22d"><div class="ttname"><a href="class_interface_1_1_weapon_interface.html#af329fa551d319a3353156f0d22edc22d">Interface::WeaponInterface::getDamage</a></div><div class="ttdeci">virtual unsigned int getDamage() const =0</div><div class="ttdoc">getDamage </div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_b7263c2df3abed61e1897d5e9e534860.html">Interface</a></li><li class="navelem"><a class="el" href="weaponinterface_8hh.html">weaponinterface.hh</a></li>
+    <li class="footer">Generoinut
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.12 </li>
+  </ul>
+</div>
+</body>
+</html>

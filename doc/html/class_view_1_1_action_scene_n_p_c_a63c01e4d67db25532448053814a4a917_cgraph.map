@@ -1,0 +1,4 @@
+<map id="View::ActionSceneNPC::setAIMode" name="View::ActionSceneNPC::setAIMode">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene_n_p_c.html#a32b28c35cccc25fa39d60462235776f3" title="View::ActionSceneNPC\l::setRunSpeed" alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene_feet.html#a160793a00dcf4b16bcda158571f56773" title="View::ActionSceneFeet\l::setRunning" alt="" coords="419,5,577,47"/>
+</map>

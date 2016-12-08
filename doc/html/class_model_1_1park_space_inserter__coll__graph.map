@@ -1,0 +1,5 @@
+<map id="Model::parkSpaceInserter" name="Model::parkSpaceInserter">
+<area shape="rect" id="node2" href="$class_model_1_1map_generator.html" title="{Model::mapGenerator\n||+ mapGenerator()\l+ getTile()\l+ getHeight()\l+ getWidth()\l+ getStartX()\l+ getStartY()\l+ generateHall()\l+ getLayout()\l&#45; getMedialMap()\l&#45; getDistanceMap()\l&#45; isInMapRange()\l&#45; GetSurroundingWallCount()\l&#45; getClosestEdge()\l&#45; indexToX()\l&#45; indexToY()\l&#45; indexAt()\l&#45; setTile()\l&#45; setTile()\l&#45; getTile()\l&#45; printLayout()\l}" alt="" coords="323,321,511,677"/>
+<area shape="rect" id="node9" href="$class_model_1_1layout_generator.html" title="{Model::layoutGenerator\n||+ layoutGenerator()\l+ generateHall()\l&#45; roomOk()\l&#45; randomRoom()\l}" alt="" coords="199,740,357,861"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_parkin_hall_layout_interface.html" title="{Interface::ParkinHallLayout\lInterface\n||+ ParkinHallLayoutInterface()\l+ generateHall()\l+ getLayout()\l+ getTile()\l+ getStartX()\l+ getStartY()\l+ getHeight()\l+ getWidth()\l}" alt="" coords="69,5,258,200"/>
+</map>

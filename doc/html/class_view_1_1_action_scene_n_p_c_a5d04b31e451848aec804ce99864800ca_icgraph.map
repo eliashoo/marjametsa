@@ -1,0 +1,9 @@
+<map id="View::ActionSceneNPC::isDead" name="View::ActionSceneNPC::isDead">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#aae98cc0bf8648ab049ff79a902701e73" title="View::ActionScene::\lcheckShotCollision" alt="" coords="227,5,367,47"/>
+<area shape="rect" id="node5" href="$class_view_1_1_action_scene.html#a2406dfeb3e69091ae05e23ef396d08e3" title="View::ActionScene::\lenemyAttacked" alt="" coords="227,71,367,112"/>
+<area shape="rect" id="node8" href="$class_view_1_1_action_scene.html#a8ecad0a68a274799549da0adce49ea09" title="View::ActionScene::\lupdateEnemyLineOfSight" alt="" coords="212,136,381,177"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a5ef79714e0a56179cf0518071879a2dd" title="View::ActionScene::\lshootTheShot" alt="" coords="429,5,569,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#a9c9751aa5663b998d81840048e13c9be" title="View::ActionScene::\linitPCs" alt="" coords="617,5,757,47"/>
+<area shape="rect" id="node6" href="$class_view_1_1_action_scene.html#a2da7a8314a9d50cdccf82159f58e5097" title="View::ActionScene::\lspawnEnemy" alt="" coords="429,103,569,144"/>
+<area shape="rect" id="node7" href="$class_view_1_1_action_scene.html#af2fabc7baae61ac07ca1a0a5d46814cf" title="View::ActionScene::\laddEnemies" alt="" coords="617,103,757,144"/>
+</map>

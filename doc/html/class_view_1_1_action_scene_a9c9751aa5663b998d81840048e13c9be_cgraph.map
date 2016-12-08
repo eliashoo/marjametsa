@@ -1,0 +1,7 @@
+<map id="View::ActionScene::initPCs" name="View::ActionScene::initPCs">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a144bce11f4b553f6e3afe95d6e99df03" title="View::ActionScene::\lmovePCs" alt="" coords="193,5,333,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a5ef79714e0a56179cf0518071879a2dd" title="View::ActionScene::\lshootTheShot" alt="" coords="193,71,333,112"/>
+<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#aae98cc0bf8648ab049ff79a902701e73" title="View::ActionScene::\lcheckShotCollision" alt="" coords="381,71,521,112"/>
+<area shape="rect" id="node5" href="$class_view_1_1_action_scene_n_p_c.html#a9065e80ab1349445972a44657234a35f" title="View::ActionSceneNPC\l::getId" alt="" coords="569,37,728,79"/>
+<area shape="rect" id="node6" href="$class_view_1_1_action_scene_n_p_c.html#a5d04b31e451848aec804ce99864800ca" title="View::ActionSceneNPC\l::isDead" alt="" coords="569,103,728,144"/>
+</map>

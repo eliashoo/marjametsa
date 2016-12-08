@@ -1,0 +1,4 @@
+<map id="Model::Upgrade" name="Model::Upgrade">
+<area shape="rect" id="node2" href="$class_interface_1_1_upgrade_interface.html" title="{Interface::UpgradeInterface\n||+ UpgradeInterface()\l+ ~UpgradeInterface()\l+ getUpgradeLevel()\l+ getEffect()\l+ getEffectValue()\l}" alt="" coords="21,277,197,413"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_equipment_interface.html" title="EquipmentInterface on rajapintaluokka, josta peritään tavaroita (Equipment). " alt="" coords="5,5,212,229"/>
+</map>

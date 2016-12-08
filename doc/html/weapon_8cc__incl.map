@@ -1,0 +1,5 @@
+<map id="Model/weapon.cc" name="Model/weapon.cc">
+<area shape="rect" id="node2" href="$weapon_8hh.html" title="weapon.hh" alt="" coords="57,80,141,107"/>
+<area shape="rect" id="node3" href="$weaponinterface_8hh.html" title="Interface/weaponinterface.hh" alt="" coords="5,155,192,181"/>
+<area shape="rect" id="node4" href="$equipmentinterface_8hh.html" title="Määrittelee yhden tavaran (Equipment) operaatioiden rajapintaluokan. " alt="" coords="24,229,173,256"/>
+</map>

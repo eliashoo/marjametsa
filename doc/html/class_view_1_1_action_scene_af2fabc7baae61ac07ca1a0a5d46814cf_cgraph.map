@@ -1,0 +1,20 @@
+<map id="View::ActionScene::addEnemies" name="View::ActionScene::addEnemies">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a2da7a8314a9d50cdccf82159f58e5097" title="View::ActionScene::\lspawnEnemy" alt="" coords="193,267,333,308"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene_n_p_c.html#a45581b8b064bede18865c19bc640fd7b" title="View::ActionSceneNPC\l::addFeet" alt="" coords="381,144,540,185"/>
+<area shape="rect" id="node5" href="$class_view_1_1_action_scene.html#a8ecad0a68a274799549da0adce49ea09" title="View::ActionScene::\lupdateEnemyLineOfSight" alt="" coords="588,201,757,243"/>
+<area shape="rect" id="node14" href="$class_view_1_1_action_scene.html#a4d0be71c24a8d12a73a86fb6d917cc51" title="View::ActionScene::\lenemyWandered" alt="" coords="603,347,743,388"/>
+<area shape="rect" id="node16" href="$class_view_1_1_action_scene.html#a2406dfeb3e69091ae05e23ef396d08e3" title="View::ActionScene::\lenemyAttacked" alt="" coords="603,267,743,308"/>
+<area shape="rect" id="node18" href="$class_view_1_1_action_scene.html#a03d6bd779731feb9bc256844ec3fb0ae" title="View::ActionScene::\lenemyPatrolled" alt="" coords="391,405,531,447"/>
+<area shape="rect" id="node4" href="$class_view_1_1_action_scene_feet.html#a74dfcd6e4a0b5d3fc3dd27079107ecdc" title="View::ActionSceneFeet\l::setPosition" alt="" coords="593,136,752,177"/>
+<area shape="rect" id="node6" href="$class_view_1_1_action_scene_n_p_c.html#a5d04b31e451848aec804ce99864800ca" title="View::ActionSceneNPC\l::isDead" alt="" coords="805,201,964,243"/>
+<area shape="rect" id="node7" href="$class_view_1_1_action_scene_n_p_c.html#a9065e80ab1349445972a44657234a35f" title="View::ActionSceneNPC\l::getId" alt="" coords="805,267,964,308"/>
+<area shape="rect" id="node8" href="$class_view_1_1_action_scene_n_p_c.html#ad5b240c242c1f22de0b4c141c8a613ed" title="View::ActionSceneNPC\l::getTarget" alt="" coords="805,71,964,112"/>
+<area shape="rect" id="node9" href="$class_view_1_1_action_scene.html#a62ad930d90fc2b1bb64d0852d9073c9b" title="View::ActionScene::\lcheckBlockedView" alt="" coords="815,5,955,47"/>
+<area shape="rect" id="node10" href="$class_view_1_1_action_scene_n_p_c.html#ab362917c5b032ed8ec63a503a2b84e6e" title="View::ActionSceneNPC\l::setTarget" alt="" coords="805,136,964,177"/>
+<area shape="rect" id="node11" href="$class_view_1_1_action_scene_n_p_c.html#a63c01e4d67db25532448053814a4a917" title="View::ActionSceneNPC\l::setAIMode" alt="" coords="805,397,964,439"/>
+<area shape="rect" id="node12" href="$class_view_1_1_action_scene_n_p_c.html#a32b28c35cccc25fa39d60462235776f3" title="View::ActionSceneNPC\l::setRunSpeed" alt="" coords="1012,397,1171,439"/>
+<area shape="rect" id="node13" href="$class_view_1_1_action_scene_feet.html#a160793a00dcf4b16bcda158571f56773" title="View::ActionSceneFeet\l::setRunning" alt="" coords="1219,397,1377,439"/>
+<area shape="rect" id="node15" href="$class_view_1_1_action_scene_n_p_c.html#a2d64f4b6f2eb5eedb8360fb8dc33b606" title="View::ActionSceneNPC\l::moveToPoint" alt="" coords="805,463,964,504"/>
+<area shape="rect" id="node17" href="$class_view_1_1_action_scene.html#a6bfb112aa7244a19a1f1c1e7444a2195" title="View::ActionScene::\lactorWasHit" alt="" coords="815,332,955,373"/>
+<area shape="rect" id="node19" href="$class_view_1_1_action_scene_n_p_c.html#aebeb555dcc879bbab68a98565c5f8307" title="View::ActionSceneNPC\l::getMoving" alt="" coords="593,515,752,556"/>
+</map>

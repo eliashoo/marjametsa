@@ -1,0 +1,6 @@
+<map id="Model::parkSpaceInserter::getWallTiles" name="Model::parkSpaceInserter::getWallTiles">
+<area shape="rect" id="node2" href="$class_model_1_1map_generator.html#a92598d66736c2be4ca83aeedfe478b9d" title="Model::mapGenerator\l::GetSurroundingWallCount" alt="" coords="224,35,404,76"/>
+<area shape="rect" id="node3" href="$class_model_1_1map_generator.html#a02b91ca9a47b993e6fa14b9b0ad317f2" title="Get tile from point in tile coordinates. " alt="" coords="452,5,599,47"/>
+<area shape="rect" id="node5" href="$class_model_1_1map_generator.html#aaac1161126a56490862e3b5fffffbded" title="Model::mapGenerator\l::indexAt" alt="" coords="241,100,387,141"/>
+<area shape="rect" id="node4" href="$class_model_1_1map_generator.html#a244ad56297f00ce2ab892d3b2a14ffac" title="Model::mapGenerator\l::isInMapRange" alt="" coords="452,85,599,127"/>
+</map>

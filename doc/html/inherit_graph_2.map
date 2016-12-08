@@ -1,0 +1,8 @@
+<map id="Graafinen luokkahierarkia" name="Graafinen luokkahierarkia">
+<area shape="rect" id="node1" href="$class_interface_1_1_equipment_interface.html" title="EquipmentInterface on rajapintaluokka, josta peritään tavaroita (Equipment). " alt="" coords="5,56,196,83"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_upgrade_interface.html" title="Interface::UpgradeInterface" alt="" coords="244,5,420,32"/>
+<area shape="rect" id="node4" href="$class_interface_1_1_weapon_interface.html" title="Interface::WeaponInterface" alt="" coords="244,56,420,83"/>
+<area shape="rect" id="node6" href="$class_model_1_1_equipment.html" title="Model::Equipment" alt="" coords="269,107,395,133"/>
+<area shape="rect" id="node3" href="$class_model_1_1_upgrade.html" title="Model::Upgrade" alt="" coords="468,5,581,32"/>
+<area shape="rect" id="node5" href="$class_model_1_1_weapon.html" title="Model::Weapon" alt="" coords="468,56,581,83"/>
+</map>

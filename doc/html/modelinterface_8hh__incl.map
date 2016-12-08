@@ -1,0 +1,6 @@
+<map id="Interface/modelinterface.hh" name="Interface/modelinterface.hh">
+<area shape="rect" id="node5" href="$parkinghallinterface_8hh.html" title="parkinghallinterface.hh" alt="" coords="259,80,410,107"/>
+<area shape="rect" id="node7" href="$actorinterface_8hh.html" title="Määrittelee yhden toimijan operaatioiden rajapintaluokan. " alt="" coords="486,80,605,107"/>
+<area shape="rect" id="node8" href="$equipmentinterface_8hh.html" title="Määrittelee yhden tavaran (Equipment) operaatioiden rajapintaluokan. " alt="" coords="549,155,752,181"/>
+<area shape="rect" id="node9" href="$parkinghalllayoutinterface_8hh.html" title="parkinghalllayoutinterface.hh" alt="" coords="48,80,235,107"/>
+</map>

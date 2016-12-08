@@ -1,0 +1,7 @@
+<map id="Model::layoutGenerator::generateHall" name="Model::layoutGenerator::generateHall">
+<area shape="rect" id="node2" href="$class_model_1_1layout_generator.html#a80d0ad4662419fe534bc7af4aa700bfb" title="Model::layoutGenerator\l::randomRoom" alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node5" href="$class_model_1_1layout_generator.html#aa1cf644a00a6eeed01f192be1905dbb5" title="Model::layoutGenerator\l::roomOk" alt="" coords="211,71,368,112"/>
+<area shape="rect" id="node6" href="$class_model_1_1map_generator.html#a180f1510b8d7eb4af5dc919eeaddfa69" title="Model::mapGenerator\l::setTile" alt="" coords="216,136,363,177"/>
+<area shape="rect" id="node3" href="$class_model_1_1map_generator.html#a244ad56297f00ce2ab892d3b2a14ffac" title="Model::mapGenerator\l::isInMapRange" alt="" coords="611,35,757,76"/>
+<area shape="rect" id="node4" href="$class_model_1_1map_generator.html#aaac1161126a56490862e3b5fffffbded" title="Model::mapGenerator\l::indexAt" alt="" coords="416,64,563,105"/>
+</map>

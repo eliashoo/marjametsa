@@ -1,0 +1,5 @@
+<map id="View::HeadQuartersUI::UIRetireActorSignal" name="View::HeadQuartersUI::UIRetireActorSignal">
+<area shape="rect" id="node2" href="$class_view_1_1_head_quarters_u_i.html#a1b2bf2db6fd353931c27a1b92e9a46aa" title="View::HeadQuartersUI\l::retireActorButtonPushed" alt="" coords="204,5,376,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_head_quarters_u_i.html#a504906d7f958448301b500a3762ff618" title="View::HeadQuartersUI\l::connectShopUI" alt="" coords="424,5,575,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_head_quarters_u_i.html#a98db9788c668433314da83b183101f0c" title="View::HeadQuartersUI\l::HeadQuartersUI" alt="" coords="623,5,773,47"/>
+</map>

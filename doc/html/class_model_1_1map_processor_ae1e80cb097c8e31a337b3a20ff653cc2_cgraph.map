@@ -1,0 +1,13 @@
+<map id="Model::mapProcessor::calculateDistanceMap" name="Model::mapProcessor::calculateDistanceMap">
+<area shape="rect" id="node2" href="$class_model_1_1map_generator.html#a918049786b708772ca97df76389955a7" title="Model::mapGenerator\l::getClosestEdge" alt="" coords="229,123,375,164"/>
+<area shape="rect" id="node3" href="$class_model_1_1map_generator.html#a02b91ca9a47b993e6fa14b9b0ad317f2" title="Get tile from point in tile coordinates. " alt="" coords="441,64,588,105"/>
+<area shape="rect" id="node4" href="$class_model_1_1map_generator.html#aaac1161126a56490862e3b5fffffbded" title="Model::mapGenerator\l::indexAt" alt="" coords="441,129,588,171"/>
+<area shape="rect" id="node6" href="$class_model_1_1map_generator.html#a92598d66736c2be4ca83aeedfe478b9d" title="Model::mapGenerator\l::GetSurroundingWallCount" alt="" coords="212,5,392,47"/>
+<area shape="rect" id="node7" href="$class_model_1_1map_processor.html#ace629015ebfe8536ad3f14019fffe3e3" title="Model::mapProcessor\l::getTileClosest" alt="" coords="227,240,377,281"/>
+<area shape="rect" id="node9" href="$class_model_1_1map_generator.html#af153f95aea5145100546ad86ac4b9d02" title="Model::mapGenerator\l::indexToX" alt="" coords="229,436,375,477"/>
+<area shape="rect" id="node10" href="$class_model_1_1map_generator.html#a73020896792ce1a6aa4dd0ce2b9c5caf" title="Model::mapGenerator\l::indexToY" alt="" coords="229,501,375,543"/>
+<area shape="rect" id="node11" href="$class_model_1_1map_processor.html#aa4491f292821c1791ba15718fd9c6a63" title="Model::mapProcessor\l::setTileClosest" alt="" coords="227,305,377,347"/>
+<area shape="rect" id="node12" href="$class_model_1_1map_processor.html#a89dbcb46165ca574cf2c9db9f5c16cee" title="Model::mapProcessor\l::setTileDistance" alt="" coords="227,371,377,412"/>
+<area shape="rect" id="node5" href="$class_model_1_1map_generator.html#a244ad56297f00ce2ab892d3b2a14ffac" title="Model::mapGenerator\l::isInMapRange" alt="" coords="637,68,784,109"/>
+<area shape="rect" id="node8" href="$class_model_1_1map_processor.html#a3399e41b2aeca5e9890d7a740dc1e237" title="Model::mapProcessor\l::getTile" alt="" coords="440,305,589,347"/>
+</map>

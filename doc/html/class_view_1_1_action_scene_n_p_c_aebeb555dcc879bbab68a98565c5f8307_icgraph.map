@@ -1,0 +1,5 @@
+<map id="View::ActionSceneNPC::getMoving" name="View::ActionSceneNPC::getMoving">
+<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a03d6bd779731feb9bc256844ec3fb0ae" title="View::ActionScene::\lenemyPatrolled" alt="" coords="212,5,352,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a2da7a8314a9d50cdccf82159f58e5097" title="View::ActionScene::\lspawnEnemy" alt="" coords="400,5,540,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#af2fabc7baae61ac07ca1a0a5d46814cf" title="View::ActionScene::\laddEnemies" alt="" coords="588,5,728,47"/>
+</map>

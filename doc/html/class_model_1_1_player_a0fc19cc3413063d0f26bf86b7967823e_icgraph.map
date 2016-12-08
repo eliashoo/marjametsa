@@ -1,0 +1,4 @@
+<map id="Model::Player::getWeapon" name="Model::Player::getWeapon">
+<area shape="rect" id="node2" href="$class_model_1_1_player.html#ad20e376ed4e84d858c79239f8cc4dfcb" title="getStat palauttaa arvon halutusta aseen statista ja mukana on myos parannuksien vaikutus. " alt="" coords="249,5,401,32"/>
+<area shape="rect" id="node3" href="$class_model_1_1_model.html#aad175b8da07e96f096661ed7419d4890" title="sellEquipment myy tavaran joko pelaajalta tai cyberteekkarilta. Vain aseet kelpaavat myytäväksi..." alt="" coords="229,56,420,83"/>
+</map>

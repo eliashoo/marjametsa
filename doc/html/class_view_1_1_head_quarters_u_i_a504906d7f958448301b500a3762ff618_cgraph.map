@@ -1,0 +1,13 @@
+<map id="View::HeadQuartersUI::connectShopUI" name="View::HeadQuartersUI::connectShopUI">
+<area shape="rect" id="node2" href="$class_view_1_1_head_quarters_u_i.html#aa3952e9dea601b9d54dcfebaf658b685" title="View::HeadQuartersUI\l::buyUpgradeButtonPushed" alt="" coords="471,154,652,195"/>
+<area shape="rect" id="node3" href="$class_view_1_1_head_quarters_u_i.html#a7db26615e6cda19cb873cfff36834535" title="View::HeadQuartersUI\l::buyWeaponButtonPushed" alt="" coords="223,53,404,94"/>
+<area shape="rect" id="node4" href="$class_view_1_1_head_quarters_u_i.html#a74e58fc4ef5564c3d7af04c703a5d640" title="View::HeadQuartersUI\l::changeSelectedCyberItem" alt="" coords="222,118,405,159"/>
+<area shape="rect" id="node5" href="$class_view_1_1_head_quarters_u_i.html#a6068a9afa900ab4c5bc0d36a48c466e8" title="View::HeadQuartersUI\l::changeSelectedResearch" alt="" coords="224,183,403,225"/>
+<area shape="rect" id="node6" href="$class_view_1_1_head_quarters_u_i.html#aff18dfc969b4d5079c89e83b281288f1" title="View::HeadQuartersUI\l::changeSelectedWeaponItem" alt="" coords="215,249,411,290"/>
+<area shape="rect" id="node7" href="$class_view_1_1_head_quarters_u_i.html#a27b2fed9322bb80d6633f442a3fd9035" title="View::HeadQuartersUI\l::cyberListViewItemDoubleClicked" alt="" coords="204,314,423,355"/>
+<area shape="rect" id="node8" href="$class_view_1_1_head_quarters_u_i.html#a3edd37b9b061955835597c8cac015c21" title="View::HeadQuartersUI\l::healActorButtonPushed" alt="" coords="230,379,397,421"/>
+<area shape="rect" id="node9" href="$class_view_1_1_head_quarters_u_i.html#aa4cf289bec574f4ba216570e3815e683" title="View::HeadQuartersUI\l::hireActorButtonPushed" alt="" coords="231,445,395,486"/>
+<area shape="rect" id="node10" href="$class_view_1_1_head_quarters_u_i.html#a0508cada4f9b06a59e32f4967b1a3070" title="View::HeadQuartersUI\l::reloadWeaponButtonPushed" alt="" coords="216,510,411,551"/>
+<area shape="rect" id="node11" href="$class_view_1_1_head_quarters_u_i.html#a1b2bf2db6fd353931c27a1b92e9a46aa" title="View::HeadQuartersUI\l::retireActorButtonPushed" alt="" coords="227,575,399,617"/>
+<area shape="rect" id="node12" href="$class_view_1_1_head_quarters_u_i.html#a3e01c68b5fdd117642dd01db0465605c" title="View::HeadQuartersUI\l::sellWeaponButtonPushed" alt="" coords="223,641,403,682"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Model::CyberTeekkari::getWeapon" name="Model::CyberTeekkari::getWeapon">
+<area shape="rect" id="node2" href="$class_model_1_1_cyber_teekkari.html#a70a056a65de5a36e565fbd4c834b2414" title="getStat palauttaa arvon halutusta aseen statista ja mukana on myos parannuksien vaikutus. " alt="" coords="223,5,371,47"/>
+<area shape="rect" id="node3" href="$class_model_1_1_model.html#aad175b8da07e96f096661ed7419d4890" title="sellEquipment myy tavaran joko pelaajalta tai cyberteekkarilta. Vain aseet kelpaavat myytäväksi..." alt="" coords="201,71,392,98"/>
+</map>
