@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.12"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>MarjametsaPark: View/actionscenefeet.hh lähdekooditiedosto</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">MarjametsaPark
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generoinut Doxygen 1.8.12 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','Etsi');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('actionscenefeet_8hh_source.html','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">actionscenefeet.hh</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="actionscenefeet_8hh.html">Siirry tämän tiedoston dokumentaatioon.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#ifndef ACTIONSCENEFEET_HH</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define ACTIONSCENEFEET_HH</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &lt;QGraphicsPixmapItem&gt;</span></div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;QPixmapCache&gt;</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_view.html">View</a></div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;{</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="comment">/*</span></div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="comment"> * ActionSceneFeet toteuttaa kaikkien toimintanäkymän toimijoiden kävely- ja</span></div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="comment"> * juoksuanimaatiot.</span></div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="comment"> */</span></div><div class="line"><a name="l00013"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_feet.html">   13</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_view_1_1_action_scene_feet.html">ActionSceneFeet</a> : <span class="keyword">public</span> <a class="code" href="class_q_graphics_pixmap_item.html">QGraphicsPixmapItem</a></div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;{</div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="keyword">public</span>:</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    <a class="code" href="class_view_1_1_action_scene_feet.html#a7504f920fd24676473e08ee3fd898d6b">ActionSceneFeet</a>();</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    <a class="code" href="class_view_1_1_action_scene_feet.html#ab69a3b3dbd5b515e67907a24a30026ec">~ActionSceneFeet</a>();</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_view_1_1_action_scene_feet.html#a74dfcd6e4a0b5d3fc3dd27079107ecdc">setPosition</a>(<span class="keywordtype">int</span> x, <span class="keywordtype">int</span> y);</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_view_1_1_action_scene_feet.html#a160793a00dcf4b16bcda158571f56773">setRunning</a>(<span class="keywordtype">bool</span> running);</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_view_1_1_action_scene_feet.html#adb3d6be92f4099f725c0f604f6d892d6">nextFrame</a>();</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="keyword">private</span>:</div><div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_feet.html#a702add623799a1ab31e63b25c78a1a8c">   24</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="class_view_1_1_action_scene_feet.html#a702add623799a1ab31e63b25c78a1a8c">frameCounter_</a>;                <span class="comment">// Animaatioframelaskuri</span></div><div class="line"><a name="l00025"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_feet.html#a52af66c93ac02457028e65ccd499b0b6">   25</a></span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="class_view_1_1_action_scene_feet.html#a52af66c93ac02457028e65ccd499b0b6">running_</a>;                    <span class="comment">// Kävellään/juostaan</span></div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;</div><div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_feet.html#a850a9b3498f6fdf63d4b4fb0125327c6">   27</a></span>&#160;    std::vector&lt;QPixmap*&gt; <a class="code" href="class_view_1_1_action_scene_feet.html#a850a9b3498f6fdf63d4b4fb0125327c6">walkFrames_</a>; <span class="comment">// Kävelyframet</span></div><div class="line"><a name="l00028"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_feet.html#aea90e91660c8bb85bc26c2bde86ac1a1">   28</a></span>&#160;    std::vector&lt;QPixmap*&gt; <a class="code" href="class_view_1_1_action_scene_feet.html#aea90e91660c8bb85bc26c2bde86ac1a1">runFrames_</a>;  <span class="comment">// Juoksuframet</span></div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;};</div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;} <span class="comment">// View</span></div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="preprocessor">#endif // ACTIONSCENEFEET_HH</span></div><div class="ttc" id="class_view_1_1_action_scene_feet_html"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html">View::ActionSceneFeet</a></div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8hh_source.html#l00013">actionscenefeet.hh:13</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_a702add623799a1ab31e63b25c78a1a8c"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#a702add623799a1ab31e63b25c78a1a8c">View::ActionSceneFeet::frameCounter_</a></div><div class="ttdeci">int frameCounter_</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8hh_source.html#l00024">actionscenefeet.hh:24</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_aea90e91660c8bb85bc26c2bde86ac1a1"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#aea90e91660c8bb85bc26c2bde86ac1a1">View::ActionSceneFeet::runFrames_</a></div><div class="ttdeci">std::vector&lt; QPixmap * &gt; runFrames_</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8hh_source.html#l00028">actionscenefeet.hh:28</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_a850a9b3498f6fdf63d4b4fb0125327c6"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#a850a9b3498f6fdf63d4b4fb0125327c6">View::ActionSceneFeet::walkFrames_</a></div><div class="ttdeci">std::vector&lt; QPixmap * &gt; walkFrames_</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8hh_source.html#l00027">actionscenefeet.hh:27</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_a74dfcd6e4a0b5d3fc3dd27079107ecdc"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#a74dfcd6e4a0b5d3fc3dd27079107ecdc">View::ActionSceneFeet::setPosition</a></div><div class="ttdeci">void setPosition(int x, int y)</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8cc_source.html#l00074">actionscenefeet.cc:74</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_adb3d6be92f4099f725c0f604f6d892d6"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#adb3d6be92f4099f725c0f604f6d892d6">View::ActionSceneFeet::nextFrame</a></div><div class="ttdeci">void nextFrame()</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8cc_source.html#l00108">actionscenefeet.cc:108</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_a52af66c93ac02457028e65ccd499b0b6"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#a52af66c93ac02457028e65ccd499b0b6">View::ActionSceneFeet::running_</a></div><div class="ttdeci">bool running_</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8hh_source.html#l00025">actionscenefeet.hh:25</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_a7504f920fd24676473e08ee3fd898d6b"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#a7504f920fd24676473e08ee3fd898d6b">View::ActionSceneFeet::ActionSceneFeet</a></div><div class="ttdeci">ActionSceneFeet()</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8cc_source.html#l00006">actionscenefeet.cc:6</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_a160793a00dcf4b16bcda158571f56773"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#a160793a00dcf4b16bcda158571f56773">View::ActionSceneFeet::setRunning</a></div><div class="ttdeci">void setRunning(bool running)</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8cc_source.html#l00094">actionscenefeet.cc:94</a></div></div>
+<div class="ttc" id="namespace_view_html"><div class="ttname"><a href="namespace_view.html">View</a></div><div class="ttdef"><b>Definition:</b> <a href="actionscene_8cc_source.html#l00005">actionscene.cc:5</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_feet_html_ab69a3b3dbd5b515e67907a24a30026ec"><div class="ttname"><a href="class_view_1_1_action_scene_feet.html#ab69a3b3dbd5b515e67907a24a30026ec">View::ActionSceneFeet::~ActionSceneFeet</a></div><div class="ttdeci">~ActionSceneFeet()</div><div class="ttdef"><b>Definition:</b> <a href="actionscenefeet_8cc_source.html#l00054">actionscenefeet.cc:54</a></div></div>
+<div class="ttc" id="class_q_graphics_pixmap_item_html"><div class="ttname"><a href="class_q_graphics_pixmap_item.html">QGraphicsPixmapItem</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_f2ee84e8e3a17eaa7015d788fa443c27.html">View</a></li><li class="navelem"><a class="el" href="actionscenefeet_8hh.html">actionscenefeet.hh</a></li>
+    <li class="footer">Generoinut
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.12 </li>
+  </ul>
+</div>
+</body>
+</html>

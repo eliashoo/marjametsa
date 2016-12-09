@@ -1,0 +1,9 @@
+<map id="Interface/controllerinterface.hh" name="Interface/controllerinterface.hh">
+<area shape="rect" id="node2" href="$controller_8hh.html" title="Controller/controller.hh" alt="" coords="52,80,204,107"/>
+<area shape="rect" id="node5" href="$model_8hh.html" title="Model/model.hh" alt="" coords="228,80,343,107"/>
+<area shape="rect" id="node7" href="$view_8hh.html" title="View/view.hh" alt="" coords="367,80,463,107"/>
+<area shape="rect" id="node3" href="$controller_8cc.html" title="Controller/controller.cc" alt="" coords="5,155,157,181"/>
+<area shape="rect" id="node4" href="$main_8cc.html" title="main.cc" alt="" coords="182,155,250,181"/>
+<area shape="rect" id="node6" href="$model_8cc.html" title="Model/model.cc" alt="" coords="275,155,389,181"/>
+<area shape="rect" id="node8" href="$view_8cc.html" title="View/view.cc" alt="" coords="413,155,509,181"/>
+</map>

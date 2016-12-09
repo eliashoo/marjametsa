@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.12"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>MarjametsaPark: Interface/parkinghallinterface.hh lähdekooditiedosto</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">MarjametsaPark
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generoinut Doxygen 1.8.12 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','Etsi');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('parkinghallinterface_8hh_source.html','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">parkinghallinterface.hh</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="parkinghallinterface_8hh.html">Siirry tämän tiedoston dokumentaatioon.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#ifndef PARKINGHALLINTERFACE</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define PARKINGHALLINTERFACE</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &lt;QString&gt;</span></div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_interface.html">Interface</a> {</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div><div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="class_interface_1_1_parking_hall_interface.html">    8</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_interface_1_1_parking_hall_interface.html">ParkingHallInterface</a></div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;{</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="keyword">public</span>:</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    <a class="code" href="class_interface_1_1_parking_hall_interface.html#a196a615bda600762dfa7e5ce7d78ace0">ParkingHallInterface</a>() = <span class="keywordflow">default</span>;</div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    <span class="keyword">virtual</span> <a class="code" href="class_interface_1_1_parking_hall_interface.html#a11fc4eb964c0d7de301c84555e7fafe3">~ParkingHallInterface</a>() = <span class="keywordflow">default</span>;</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    <span class="keyword">virtual</span> QString <a class="code" href="class_interface_1_1_parking_hall_interface.html#ad7a64c7822ff895632112be7b4e190d5">getId</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keyword">virtual</span> QString <a class="code" href="class_interface_1_1_parking_hall_interface.html#a974017f4066de46f427adcabec7cb681">getName</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    <span class="keyword">virtual</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_parking_hall_interface.html#aead56713fdb1ee7bb5a3fe3380237c98">getCarCount</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    <span class="keyword">virtual</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_parking_hall_interface.html#af7c9952c3c162ff3fddeefc9f8b20081">getParkingSpaceCount</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="keyword">virtual</span> <span class="keywordtype">bool</span> <a class="code" href="class_interface_1_1_parking_hall_interface.html#aa12f3fccc0dca749a4fe789e2af64075">isPlayerOwned</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <span class="keyword">virtual</span> <span class="keywordtype">double</span> <a class="code" href="class_interface_1_1_parking_hall_interface.html#ada1a52972ea449e64bed59bea6f18fbb">getLongitude</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    <span class="keyword">virtual</span> <span class="keywordtype">double</span> <a class="code" href="class_interface_1_1_parking_hall_interface.html#a63ea75a387bf9e6925e765e9a83abc1f">getLatitude</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    <span class="keyword">virtual</span> <span class="keywordtype">bool</span> <a class="code" href="class_interface_1_1_parking_hall_interface.html#a5847a98cb45cc87b459d8aed028aa1d7">isInTampere</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    <span class="keyword">virtual</span> QString <a class="code" href="class_interface_1_1_parking_hall_interface.html#a2e88d5170c532b907c0d83f448eb3fe1">getLayout</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;</div><div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <span class="keyword">virtual</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> <a class="code" href="class_interface_1_1_parking_hall_interface.html#a4779f81d506e0a4513119034df3bd07f">getMonetaryValue</a>() <span class="keyword">const</span> = 0;</div><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;</div><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;};</div><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;</div><div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;</div><div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;} <span class="comment">// Interface</span></div><div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;</div><div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;<span class="preprocessor">#endif // PARKINGHALLINTERFACE</span></div><div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;</div><div class="ttc" id="class_interface_1_1_parking_hall_interface_html_a5847a98cb45cc87b459d8aed028aa1d7"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#a5847a98cb45cc87b459d8aed028aa1d7">Interface::ParkingHallInterface::isInTampere</a></div><div class="ttdeci">virtual bool isInTampere() const =0</div><div class="ttdoc">isInTampere palauttaa tiedon siittä sijaitseeko parkkihalli tampereella. </div></div>
+<div class="ttc" id="namespace_interface_html"><div class="ttname"><a href="namespace_interface.html">Interface</a></div><div class="ttdef"><b>Definition:</b> <a href="actorinterface_8hh_source.html#l00011">actorinterface.hh:11</a></div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_a11fc4eb964c0d7de301c84555e7fafe3"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#a11fc4eb964c0d7de301c84555e7fafe3">Interface::ParkingHallInterface::~ParkingHallInterface</a></div><div class="ttdeci">virtual ~ParkingHallInterface()=default</div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_aa12f3fccc0dca749a4fe789e2af64075"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#aa12f3fccc0dca749a4fe789e2af64075">Interface::ParkingHallInterface::isPlayerOwned</a></div><div class="ttdeci">virtual bool isPlayerOwned() const =0</div><div class="ttdoc">isPlayerOwned palauttaa tiedon siittä, onko halli pelaajan omistuksessa. </div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_a974017f4066de46f427adcabec7cb681"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#a974017f4066de46f427adcabec7cb681">Interface::ParkingHallInterface::getName</a></div><div class="ttdeci">virtual QString getName() const =0</div><div class="ttdoc">getName palauttaa parkkihallin nimen. </div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_a196a615bda600762dfa7e5ce7d78ace0"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#a196a615bda600762dfa7e5ce7d78ace0">Interface::ParkingHallInterface::ParkingHallInterface</a></div><div class="ttdeci">ParkingHallInterface()=default</div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_af7c9952c3c162ff3fddeefc9f8b20081"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#af7c9952c3c162ff3fddeefc9f8b20081">Interface::ParkingHallInterface::getParkingSpaceCount</a></div><div class="ttdeci">virtual int getParkingSpaceCount() const =0</div><div class="ttdoc">getParkingSpaceCount palauttaa parkkipakkojen määrän. </div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_a2e88d5170c532b907c0d83f448eb3fe1"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#a2e88d5170c532b907c0d83f448eb3fe1">Interface::ParkingHallInterface::getLayout</a></div><div class="ttdeci">virtual QString getLayout() const =0</div><div class="ttdoc">getLayout palauttaa kyseisen parkkihallin layoutin arvon. </div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_ad7a64c7822ff895632112be7b4e190d5"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#ad7a64c7822ff895632112be7b4e190d5">Interface::ParkingHallInterface::getId</a></div><div class="ttdeci">virtual QString getId() const =0</div><div class="ttdoc">getId palauttaa parkkihallin ID:n. </div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_a63ea75a387bf9e6925e765e9a83abc1f"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#a63ea75a387bf9e6925e765e9a83abc1f">Interface::ParkingHallInterface::getLatitude</a></div><div class="ttdeci">virtual double getLatitude() const =0</div><div class="ttdoc">getLatitude palauttaa latitude arvon. Liittyy kyseisen parkkihallin sijaintiin. </div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html">Interface::ParkingHallInterface</a></div><div class="ttdef"><b>Definition:</b> <a href="parkinghallinterface_8hh_source.html#l00008">parkinghallinterface.hh:8</a></div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_a4779f81d506e0a4513119034df3bd07f"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#a4779f81d506e0a4513119034df3bd07f">Interface::ParkingHallInterface::getMonetaryValue</a></div><div class="ttdeci">virtual unsigned int getMonetaryValue() const =0</div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_ada1a52972ea449e64bed59bea6f18fbb"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#ada1a52972ea449e64bed59bea6f18fbb">Interface::ParkingHallInterface::getLongitude</a></div><div class="ttdeci">virtual double getLongitude() const =0</div><div class="ttdoc">getLongitude palauttaa longitude arvon. Liittyy kyseisen parkkihallin sijaintiin. ...</div></div>
+<div class="ttc" id="class_interface_1_1_parking_hall_interface_html_aead56713fdb1ee7bb5a3fe3380237c98"><div class="ttname"><a href="class_interface_1_1_parking_hall_interface.html#aead56713fdb1ee7bb5a3fe3380237c98">Interface::ParkingHallInterface::getCarCount</a></div><div class="ttdeci">virtual int getCarCount() const =0</div><div class="ttdoc">getCarCount palauttaa autojen määrän. </div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_b7263c2df3abed61e1897d5e9e534860.html">Interface</a></li><li class="navelem"><a class="el" href="parkinghallinterface_8hh.html">parkinghallinterface.hh</a></li>
+    <li class="footer">Generoinut
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.12 </li>
+  </ul>
+</div>
+</body>
+</html>

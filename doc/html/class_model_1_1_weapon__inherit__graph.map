@@ -1,0 +1,4 @@
+<map id="Model::Weapon" name="Model::Weapon">
+<area shape="rect" id="node2" href="$class_interface_1_1_weapon_interface.html" title="{Interface::WeaponInterface\n||+ WeaponInterface()\l+ ~WeaponInterface()\l+ getAmmo()\l+ getMaximumAmmoCapacity()\l+ getRange()\l+ getDamage()\l+ getRate()\l+ getAccuracy()\l+ getMinimumTechLvl()\l+ isEmpty()\l+ reload()\l}" alt="" coords="5,277,212,501"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_equipment_interface.html" title="EquipmentInterface on rajapintaluokka, josta peritään tavaroita (Equipment). " alt="" coords="5,5,212,229"/>
+</map>

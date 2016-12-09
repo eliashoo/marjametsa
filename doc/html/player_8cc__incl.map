@@ -1,0 +1,7 @@
+<map id="Model/player.cc" name="Model/player.cc">
+<area shape="rect" id="node4" href="$player_8hh.html" title="player.hh" alt="" coords="287,80,361,107"/>
+<area shape="rect" id="node7" href="$actorinterface_8hh.html" title="Määrittelee yhden toimijan operaatioiden rajapintaluokan. " alt="" coords="279,229,449,256"/>
+<area shape="rect" id="node10" href="$cyberteekkari_8hh.html" title="cyberteekkari.hh" alt="" coords="427,155,546,181"/>
+<area shape="rect" id="node11" href="$equipment_8hh.html" title="equipment.hh" alt="" coords="529,229,629,256"/>
+<area shape="rect" id="node9" href="$equipmentinterface_8hh.html" title="Määrittelee yhden tavaran (Equipment) operaatioiden rajapintaluokan. " alt="" coords="365,304,568,331"/>
+</map>

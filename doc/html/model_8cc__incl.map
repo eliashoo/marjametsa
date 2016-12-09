@@ -1,0 +1,26 @@
+<map id="Model/model.cc" name="Model/model.cc">
+<area shape="rect" id="node4" href="$model_8hh.html" title="model.hh" alt="" coords="1777,80,1852,107"/>
+<area shape="rect" id="node20" href="$roomgenerator_8hh.html" title="roomgenerator.hh" alt="" coords="2928,155,3051,181"/>
+<area shape="rect" id="node9" href="$controllerinterface_8hh.html" title="Interface/controllerinterface.hh" alt="" coords="1615,155,1809,181"/>
+<area shape="rect" id="node10" href="$modelinterface_8hh.html" title="Määrittelee modellin operaatioiden rajapintaluokan. " alt="" coords="1386,229,1510,256"/>
+<area shape="rect" id="node13" href="$parkinghallinterface_8hh.html" title="parkinghallinterface.hh" alt="" coords="1203,304,1354,331"/>
+<area shape="rect" id="node17" href="$parkinghalllayoutinterface_8hh.html" title="parkinghalllayoutinterface.hh" alt="" coords="2192,304,2379,331"/>
+<area shape="rect" id="node26" href="$xmlparkingdatareader_8hh.html" title="xmlparkingdatareader.hh" alt="" coords="1834,155,1998,181"/>
+<area shape="rect" id="node31" href="$player_8hh.html" title="player.hh" alt="" coords="805,229,880,256"/>
+<area shape="rect" id="node32" href="$cyberteekkari_8hh.html" title="cyberteekkari.hh" alt="" coords="659,304,778,331"/>
+<area shape="rect" id="node34" href="$filemanager_8hh.html" title="filemanager.hh" alt="" coords="357,229,464,256"/>
+<area shape="rect" id="node39" href="$playerparty_8hh.html" title="playerparty.hh" alt="" coords="941,155,1045,181"/>
+<area shape="rect" id="node40" href="$networkmanager_8hh.html" title="networkmanager.hh" alt="" coords="2315,155,2450,181"/>
+<area shape="rect" id="node19" href="$viewinterface_8hh.html" title="Määrittelee näkymän operaatioiden rajapintaluokan. " alt="" coords="1534,229,1647,256"/>
+<area shape="rect" id="node15" href="$actorinterface_8hh.html" title="Määrittelee yhden toimijan operaatioiden rajapintaluokan. " alt="" coords="1006,379,1125,405"/>
+<area shape="rect" id="node16" href="$equipmentinterface_8hh.html" title="Määrittelee yhden tavaran (Equipment) operaatioiden rajapintaluokan. " alt="" coords="617,453,820,480"/>
+<area shape="rect" id="node23" href="$mapprocessor_8hh.html" title="mapprocessor.hh" alt="" coords="2928,229,3051,256"/>
+<area shape="rect" id="node24" href="$layoutgenerator_8hh.html" title="layoutgenerator.hh" alt="" coords="2774,229,2903,256"/>
+<area shape="rect" id="node25" href="$parkspaceinserter_8hh.html" title="parkspaceinserter.hh" alt="" coords="3075,229,3218,256"/>
+<area shape="rect" id="node30" href="$parkinghall_8hh.html" title="parkinghall.hh" alt="" coords="1259,229,1362,256"/>
+<area shape="rect" id="node33" href="$equipment_8hh.html" title="equipment.hh" alt="" coords="550,379,650,405"/>
+<area shape="rect" id="node35" href="$weapon_8hh.html" title="weapon.hh" alt="" coords="107,304,191,331"/>
+<area shape="rect" id="node37" href="$upgrade_8hh.html" title="upgrade.hh" alt="" coords="267,304,354,331"/>
+<area shape="rect" id="node36" href="$weaponinterface_8hh.html" title="Interface/weaponinterface.hh" alt="" coords="5,379,192,405"/>
+<area shape="rect" id="node38" href="$upgradeinterface_8hh.html" title="Interface/upgradeinterface.hh" alt="" coords="217,379,405,405"/>
+</map>

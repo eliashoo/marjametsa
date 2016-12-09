@@ -1,0 +1,3 @@
+<map id="Model::ParkingHall" name="Model::ParkingHall">
+<area shape="rect" id="node2" href="$class_interface_1_1_parking_hall_interface.html" title="{Interface::ParkingHallInterface\n||+ ParkingHallInterface()\l+ ~ParkingHallInterface()\l+ getId()\l+ getName()\l+ getCarCount()\l+ getParkingSpaceCount()\l+ isPlayerOwned()\l+ getLongitude()\l+ getLatitude()\l+ isInTampere()\l+ getLayout()\l+ getMonetaryValue()\l}" alt="" coords="5,145,200,384"/>
+</map>

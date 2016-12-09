@@ -1,0 +1,4 @@
+<map id="Model::Model" name="Model::Model">
+<area shape="rect" id="node2" href="$class_q_object.html" title="{QObject\n||}" alt="" coords="5,79,76,156"/>
+<area shape="rect" id="node3" href="$class_interface_1_1_model_interface.html" title="{Interface::ModelInterface\n||+ ModelInterface()\l+ ~ModelInterface()\l+ setController()\l+ initModel()\l+ getParkingHalls()\l+ getPlayerData()\l+ getEquipmentData()\l+ getParkingHallById()\l+ buyEquipment()\l+ reloadWeapon()\land 16 more...\l}" alt="" coords="101,5,263,229"/>
+</map>

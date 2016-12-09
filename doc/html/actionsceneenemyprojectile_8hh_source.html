@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.12"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>MarjametsaPark: View/actionsceneenemyprojectile.hh lähdekooditiedosto</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">MarjametsaPark
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generoinut Doxygen 1.8.12 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','Etsi');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('actionsceneenemyprojectile_8hh_source.html','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">actionsceneenemyprojectile.hh</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="actionsceneenemyprojectile_8hh.html">Siirry tämän tiedoston dokumentaatioon.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#ifndef ACTIONSCENEENEMYPROJECTILE_HH</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define ACTIONSCENEENEMYPROJECTILE_HH</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="actionsceneenemyprojectileexplosion_8hh.html">actionsceneenemyprojectileexplosion.hh</a>&quot;</span></div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="actionsceneblockingtile_8hh.html">actionsceneblockingtile.hh</a>&quot;</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="actionscenepc_8hh.html">actionscenepc.hh</a>&quot;</span></div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;QGraphicsScene&gt;</span></div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &lt;QGraphicsPixmapItem&gt;</span></div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#include &lt;QPixmapCache&gt;</span></div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="preprocessor">#include &lt;QObject&gt;</span></div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="preprocessor">#include &lt;QTimer&gt;</span></div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="preprocessor">#include &lt;qmath.h&gt;</span></div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="preprocessor">#include &lt;typeinfo&gt;</span></div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_view.html">View</a></div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;{</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="comment">/*</span></div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="comment"> * ActionSceneEnemyProjectile toteuttaa itseään liikkuttavan ammuksen toiminta-</span></div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="comment"> * näkymän vihollisten ampumaksi projektiiliksi.</span></div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="comment"> */</span></div><div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_enemy_projectile.html">   22</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_view_1_1_action_scene_enemy_projectile.html">ActionSceneEnemyProjectile</a> : <span class="keyword">public</span> <a class="code" href="class_q_object.html">QObject</a>, <span class="keyword">public</span> <a class="code" href="class_q_graphics_pixmap_item.html">QGraphicsPixmapItem</a></div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;{</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    Q_OBJECT</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="keyword">public</span>:</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a591f0585551447a1e8e91f8503ac8f32">ActionSceneEnemyProjectile</a>();</div><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;    <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a04d5fab37dc7649b3e4558d4b7035f38">~ActionSceneEnemyProjectile</a>();</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#abc089937ad01b1effa95e0e5f046ff28">setPosition</a>(<span class="keywordtype">int</span> x, <span class="keywordtype">int</span> y);</div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a189281501229a829374ee5f0f5ca2c53">nextFrame</a>();</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="keyword">public</span> slots:</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a56931d52e01dea3af127d7c4277ab5c9">move</a>();</div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;signals:</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a1f95058d8192c4a53fc4abb549628485">actorHit</a>(uint);</div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;</div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="keyword">private</span>:</div><div class="line"><a name="l00039"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_enemy_projectile.html#a85ef86cb745b434dbbf68d97fb78e0ef">   39</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a85ef86cb745b434dbbf68d97fb78e0ef">frameCounter_</a>;                      <span class="comment">// Animaatioframelaskuri</span></div><div class="line"><a name="l00040"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_enemy_projectile.html#ae85a0a44f21fa1aa1a05a7971b7378a9">   40</a></span>&#160;    QTimer *<a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#ae85a0a44f21fa1aa1a05a7971b7378a9">moveTimer_</a>;                     <span class="comment">// Liikkumistimer</span></div><div class="line"><a name="l00041"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_enemy_projectile.html#a50ed3ee891a33b8f9c43f1ce3333386e">   41</a></span>&#160;    <span class="keywordtype">int</span> <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a50ed3ee891a33b8f9c43f1ce3333386e">range_</a>;                             <span class="comment">// Kantama (päivitysten lkm)</span></div><div class="line"><a name="l00042"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_enemy_projectile.html#a687c7f94275760c5c2e85bf7c7eafed0">   42</a></span>&#160;    std::vector&lt;QPixmap*&gt; <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a687c7f94275760c5c2e85bf7c7eafed0">lightningFrames_</a>; <span class="comment">// Animaatioframet</span></div><div class="line"><a name="l00043"></a><span class="lineno"><a class="line" href="class_view_1_1_action_scene_enemy_projectile.html#a63e01d767ca284f53727af5449f423f4">   43</a></span>&#160;    QList&lt;QGraphicsItem*&gt; <a class="code" href="class_view_1_1_action_scene_enemy_projectile.html#a63e01d767ca284f53727af5449f423f4">colliders_</a>;       <span class="comment">// Törmäyslista</span></div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;};</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;} <span class="comment">// View</span></div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;<span class="preprocessor">#endif // ACTIONSCENEENEMYPROJECTILE_HH</span></div><div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a189281501229a829374ee5f0f5ca2c53"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a189281501229a829374ee5f0f5ca2c53">View::ActionSceneEnemyProjectile::nextFrame</a></div><div class="ttdeci">void nextFrame()</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8cc_source.html#l00054">actionsceneenemyprojectile.cc:54</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a04d5fab37dc7649b3e4558d4b7035f38"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a04d5fab37dc7649b3e4558d4b7035f38">View::ActionSceneEnemyProjectile::~ActionSceneEnemyProjectile</a></div><div class="ttdeci">~ActionSceneEnemyProjectile()</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8cc_source.html#l00037">actionsceneenemyprojectile.cc:37</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_ae85a0a44f21fa1aa1a05a7971b7378a9"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#ae85a0a44f21fa1aa1a05a7971b7378a9">View::ActionSceneEnemyProjectile::moveTimer_</a></div><div class="ttdeci">QTimer * moveTimer_</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8hh_source.html#l00040">actionsceneenemyprojectile.hh:40</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a56931d52e01dea3af127d7c4277ab5c9"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a56931d52e01dea3af127d7c4277ab5c9">View::ActionSceneEnemyProjectile::move</a></div><div class="ttdeci">void move()</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8cc_source.html#l00074">actionsceneenemyprojectile.cc:74</a></div></div>
+<div class="ttc" id="actionscenepc_8hh_html"><div class="ttname"><a href="actionscenepc_8hh.html">actionscenepc.hh</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a50ed3ee891a33b8f9c43f1ce3333386e"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a50ed3ee891a33b8f9c43f1ce3333386e">View::ActionSceneEnemyProjectile::range_</a></div><div class="ttdeci">int range_</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8hh_source.html#l00041">actionsceneenemyprojectile.hh:41</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a687c7f94275760c5c2e85bf7c7eafed0"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a687c7f94275760c5c2e85bf7c7eafed0">View::ActionSceneEnemyProjectile::lightningFrames_</a></div><div class="ttdeci">std::vector&lt; QPixmap * &gt; lightningFrames_</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8hh_source.html#l00042">actionsceneenemyprojectile.hh:42</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a85ef86cb745b434dbbf68d97fb78e0ef"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a85ef86cb745b434dbbf68d97fb78e0ef">View::ActionSceneEnemyProjectile::frameCounter_</a></div><div class="ttdeci">int frameCounter_</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8hh_source.html#l00039">actionsceneenemyprojectile.hh:39</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a591f0585551447a1e8e91f8503ac8f32"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a591f0585551447a1e8e91f8503ac8f32">View::ActionSceneEnemyProjectile::ActionSceneEnemyProjectile</a></div><div class="ttdeci">ActionSceneEnemyProjectile()</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8cc_source.html#l00005">actionsceneenemyprojectile.cc:5</a></div></div>
+<div class="ttc" id="actionsceneenemyprojectileexplosion_8hh_html"><div class="ttname"><a href="actionsceneenemyprojectileexplosion_8hh.html">actionsceneenemyprojectileexplosion.hh</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_abc089937ad01b1effa95e0e5f046ff28"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#abc089937ad01b1effa95e0e5f046ff28">View::ActionSceneEnemyProjectile::setPosition</a></div><div class="ttdeci">void setPosition(int x, int y)</div></div>
+<div class="ttc" id="class_q_object_html"><div class="ttname"><a href="class_q_object.html">QObject</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a1f95058d8192c4a53fc4abb549628485"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a1f95058d8192c4a53fc4abb549628485">View::ActionSceneEnemyProjectile::actorHit</a></div><div class="ttdeci">void actorHit(uint)</div></div>
+<div class="ttc" id="namespace_view_html"><div class="ttname"><a href="namespace_view.html">View</a></div><div class="ttdef"><b>Definition:</b> <a href="actionscene_8cc_source.html#l00005">actionscene.cc:5</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html_a63e01d767ca284f53727af5449f423f4"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html#a63e01d767ca284f53727af5449f423f4">View::ActionSceneEnemyProjectile::colliders_</a></div><div class="ttdeci">QList&lt; QGraphicsItem * &gt; colliders_</div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8hh_source.html#l00043">actionsceneenemyprojectile.hh:43</a></div></div>
+<div class="ttc" id="actionsceneblockingtile_8hh_html"><div class="ttname"><a href="actionsceneblockingtile_8hh.html">actionsceneblockingtile.hh</a></div></div>
+<div class="ttc" id="class_view_1_1_action_scene_enemy_projectile_html"><div class="ttname"><a href="class_view_1_1_action_scene_enemy_projectile.html">View::ActionSceneEnemyProjectile</a></div><div class="ttdef"><b>Definition:</b> <a href="actionsceneenemyprojectile_8hh_source.html#l00022">actionsceneenemyprojectile.hh:22</a></div></div>
+<div class="ttc" id="class_q_graphics_pixmap_item_html"><div class="ttname"><a href="class_q_graphics_pixmap_item.html">QGraphicsPixmapItem</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_f2ee84e8e3a17eaa7015d788fa443c27.html">View</a></li><li class="navelem"><a class="el" href="actionsceneenemyprojectile_8hh.html">actionsceneenemyprojectile.hh</a></li>
+    <li class="footer">Generoinut
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.12 </li>
+  </ul>
+</div>
+</body>
+</html>

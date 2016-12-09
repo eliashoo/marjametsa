@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.12"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>MarjametsaPark: Model/xmlparkingdatareader.hh lähdekooditiedosto</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">MarjametsaPark
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generoinut Doxygen 1.8.12 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','Etsi');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('xmlparkingdatareader_8hh_source.html','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">xmlparkingdatareader.hh</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="xmlparkingdatareader_8hh.html">Siirry tämän tiedoston dokumentaatioon.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#ifndef XMLPARKINGDATAREADER_HH</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define XMLPARKINGDATAREADER_HH</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &lt;QXmlStreamReader&gt;</span></div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;QIODevice&gt;</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;iostream&gt;</span></div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &lt;map&gt;</span></div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;memory&gt;</span></div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="parkinghall_8hh.html">parkinghall.hh</a>&quot;</span></div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;</div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">namespace </span><a class="code" href="namespace_model.html">Model</a> {</div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;</div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="comment">/*</span></div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="comment"> * XmlParkingDataReader on luokka joka lukee halutun XML-tiedoston ja muodostaa</span></div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;<span class="comment"> * tiedoista mapin, joka sisältää ParkingHall-olioita.</span></div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="comment"> */</span></div><div class="line"><a name="l00018"></a><span class="lineno"><a class="line" href="class_model_1_1_xml_parking_data_reader.html">   18</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_model_1_1_xml_parking_data_reader.html">XmlParkingDataReader</a></div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;{</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="keyword">public</span>:</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <a class="code" href="class_model_1_1_xml_parking_data_reader.html#ac2670c22dd4f8b8796711228ea80e3e3">XmlParkingDataReader</a>();</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#a958856af3d12a7d30f717591ff178a50">read</a>(QIODevice *device);</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    std::map&lt;QString, std::shared_ptr&lt;Interface::ParkingHallInterface&gt;&gt; <a class="code" href="class_model_1_1_xml_parking_data_reader.html#a5fe4ed0e5e554cd4898b2cede92fb34f">getParkingHallData</a>();</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="keyword">private</span>:</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#abe911a1e93429b10377b24c8ed6c6b49">readParkingFacility</a>();</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#a226e8bd44f4dc5197f54a17353741a95">readID</a>(std::shared_ptr&lt;Model::ParkingHall&gt; phall);</div><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#a241c64ab027e7296e55808dc1f8aff71">readLayout</a>(std::shared_ptr&lt;Model::ParkingHall&gt; phall);</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#adc4169c3dcc95489397dfad5a2220b6b">readName</a>(std::shared_ptr&lt;Model::ParkingHall&gt; phall);</div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#a02caf6c8202524558b575f599e514846">readType</a>(std::shared_ptr&lt;Model::ParkingHall&gt; phall);</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#aae704a9ba880d6a19a2a0444097b15ab">readAddress</a>(std::shared_ptr&lt;Model::ParkingHall&gt; phall);</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#acff5ef2b4ca3581572499408ef5389e9">readParkingFacilityStatus</a>();</div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#a479a315d0f55537bd38506f7482f4c9b">readTotalParkingCapacity</a>(std::shared_ptr&lt;Model::ParkingHall&gt; phall);</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    <span class="keywordtype">void</span> <a class="code" href="class_model_1_1_xml_parking_data_reader.html#af4db9c2514f34f268b6781e401311a5f">readLocation</a>(std::shared_ptr&lt;Model::ParkingHall&gt; phall);</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;</div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="comment">// ParkingHall&amp; findParkingHall(QString id) const;</span></div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;</div><div class="line"><a name="l00039"></a><span class="lineno"><a class="line" href="class_model_1_1_xml_parking_data_reader.html#a6b2cba2a3e734779511ce67e11390542">   39</a></span>&#160;    QXmlStreamReader <a class="code" href="class_model_1_1_xml_parking_data_reader.html#a6b2cba2a3e734779511ce67e11390542">reader_</a>;</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    std::map&lt;QString,</div><div class="line"><a name="l00041"></a><span class="lineno"><a class="line" href="class_model_1_1_xml_parking_data_reader.html#a00d8d6bec534e7287a3172a8dc0a275b">   41</a></span>&#160;            std::shared_ptr&lt;Interface::ParkingHallInterface&gt;&gt; <a class="code" href="class_model_1_1_xml_parking_data_reader.html#a00d8d6bec534e7287a3172a8dc0a275b">parkingHallData_</a>;</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;};</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;} <span class="comment">// Model</span></div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;<span class="preprocessor">#endif // XMLPARKINGDATAREADER_HH</span></div><div class="ttc" id="namespace_model_html"><div class="ttname"><a href="namespace_model.html">Model</a></div><div class="ttdef"><b>Definition:</b> <a href="cyberteekkari_8cc_source.html#l00004">cyberteekkari.cc:4</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_a479a315d0f55537bd38506f7482f4c9b"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#a479a315d0f55537bd38506f7482f4c9b">Model::XmlParkingDataReader::readTotalParkingCapacity</a></div><div class="ttdeci">void readTotalParkingCapacity(std::shared_ptr&lt; Model::ParkingHall &gt; phall)</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00287">xmlparkingdatareader.cc:287</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_a5fe4ed0e5e554cd4898b2cede92fb34f"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#a5fe4ed0e5e554cd4898b2cede92fb34f">Model::XmlParkingDataReader::getParkingHallData</a></div><div class="ttdeci">std::map&lt; QString, std::shared_ptr&lt; Interface::ParkingHallInterface &gt; &gt; getParkingHallData()</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00069">xmlparkingdatareader.cc:69</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_af4db9c2514f34f268b6781e401311a5f"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#af4db9c2514f34f268b6781e401311a5f">Model::XmlParkingDataReader::readLocation</a></div><div class="ttdeci">void readLocation(std::shared_ptr&lt; Model::ParkingHall &gt; phall)</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00306">xmlparkingdatareader.cc:306</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_aae704a9ba880d6a19a2a0444097b15ab"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#aae704a9ba880d6a19a2a0444097b15ab">Model::XmlParkingDataReader::readAddress</a></div><div class="ttdeci">void readAddress(std::shared_ptr&lt; Model::ParkingHall &gt; phall)</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00202">xmlparkingdatareader.cc:202</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_a6b2cba2a3e734779511ce67e11390542"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#a6b2cba2a3e734779511ce67e11390542">Model::XmlParkingDataReader::reader_</a></div><div class="ttdeci">QXmlStreamReader reader_</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8hh_source.html#l00039">xmlparkingdatareader.hh:39</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_adc4169c3dcc95489397dfad5a2220b6b"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#adc4169c3dcc95489397dfad5a2220b6b">Model::XmlParkingDataReader::readName</a></div><div class="ttdeci">void readName(std::shared_ptr&lt; Model::ParkingHall &gt; phall)</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00169">xmlparkingdatareader.cc:169</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_acff5ef2b4ca3581572499408ef5389e9"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#acff5ef2b4ca3581572499408ef5389e9">Model::XmlParkingDataReader::readParkingFacilityStatus</a></div><div class="ttdeci">void readParkingFacilityStatus()</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00224">xmlparkingdatareader.cc:224</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_a958856af3d12a7d30f717591ff178a50"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#a958856af3d12a7d30f717591ff178a50">Model::XmlParkingDataReader::read</a></div><div class="ttdeci">bool read(QIODevice *device)</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00027">xmlparkingdatareader.cc:27</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_a226e8bd44f4dc5197f54a17353741a95"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#a226e8bd44f4dc5197f54a17353741a95">Model::XmlParkingDataReader::readID</a></div><div class="ttdeci">void readID(std::shared_ptr&lt; Model::ParkingHall &gt; phall)</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00134">xmlparkingdatareader.cc:134</a></div></div>
+<div class="ttc" id="parkinghall_8hh_html"><div class="ttname"><a href="parkinghall_8hh.html">parkinghall.hh</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_a241c64ab027e7296e55808dc1f8aff71"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#a241c64ab027e7296e55808dc1f8aff71">Model::XmlParkingDataReader::readLayout</a></div><div class="ttdeci">void readLayout(std::shared_ptr&lt; Model::ParkingHall &gt; phall)</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00151">xmlparkingdatareader.cc:151</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html">Model::XmlParkingDataReader</a></div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8hh_source.html#l00018">xmlparkingdatareader.hh:18</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_a00d8d6bec534e7287a3172a8dc0a275b"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#a00d8d6bec534e7287a3172a8dc0a275b">Model::XmlParkingDataReader::parkingHallData_</a></div><div class="ttdeci">std::map&lt; QString, std::shared_ptr&lt; Interface::ParkingHallInterface &gt; &gt; parkingHallData_</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8hh_source.html#l00041">xmlparkingdatareader.hh:41</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_ac2670c22dd4f8b8796711228ea80e3e3"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#ac2670c22dd4f8b8796711228ea80e3e3">Model::XmlParkingDataReader::XmlParkingDataReader</a></div><div class="ttdeci">XmlParkingDataReader()</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00008">xmlparkingdatareader.cc:8</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_a02caf6c8202524558b575f599e514846"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#a02caf6c8202524558b575f599e514846">Model::XmlParkingDataReader::readType</a></div><div class="ttdeci">void readType(std::shared_ptr&lt; Model::ParkingHall &gt; phall)</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00186">xmlparkingdatareader.cc:186</a></div></div>
+<div class="ttc" id="class_model_1_1_xml_parking_data_reader_html_abe911a1e93429b10377b24c8ed6c6b49"><div class="ttname"><a href="class_model_1_1_xml_parking_data_reader.html#abe911a1e93429b10377b24c8ed6c6b49">Model::XmlParkingDataReader::readParkingFacility</a></div><div class="ttdeci">void readParkingFacility()</div><div class="ttdef"><b>Definition:</b> <a href="xmlparkingdatareader_8cc_source.html#l00084">xmlparkingdatareader.cc:84</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_312950da3f243a51cc00f4a947545131.html">Model</a></li><li class="navelem"><a class="el" href="xmlparkingdatareader_8hh.html">xmlparkingdatareader.hh</a></li>
+    <li class="footer">Generoinut
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.12 </li>
+  </ul>
+</div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+<map id="View::CityScapeParkingHall" name="View::CityScapeParkingHall">
+<area shape="rect" id="node2" href="$class_q_object.html" title="{QObject\n||}" alt="" coords="5,197,76,274"/>
+<area shape="rect" id="node3" href="$class_q_graphics_pixmap_item.html" title="{QGraphicsPixmapItem\n||}" alt="" coords="100,197,253,274"/>
+<area shape="rect" id="node4" href="$class_view_1_1_city_scape_status_display.html" title="{View::CityScapeStatusDisplay\n||+ CityScapeStatusDisplay()\l+ ~CityScapeStatusDisplay()\l+ setFieldValues()\l+ getName()\l+ getParkedCars()\l+ getParkingSpaces()\l+ getEnemyActivity()\l+ getWorth()\l}" alt="" coords="277,145,476,325"/>
+<area shape="rect" id="node5" href="$class_q_widget.html" title="{QWidget\n||}" alt="" coords="267,5,340,83"/>
+</map>

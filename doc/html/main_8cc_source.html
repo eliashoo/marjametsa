@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.12"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>MarjametsaPark: main.cc lähdekooditiedosto</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">MarjametsaPark
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generoinut Doxygen 1.8.12 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','Etsi');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('main_8cc_source.html','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">main.cc</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="main_8cc.html">Siirry tämän tiedoston dokumentaatioon.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="controller_8hh.html">Controller/controller.hh</a>&quot;</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="model_8hh.html">Model/model.hh</a>&quot;</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="view_8hh.html">View/view.hh</a>&quot;</span></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;QApplication&gt;</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;QStyleFactory&gt;</span></div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div><div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="main_8cc.html#a0ddf1224851353fc92bfbff6f499fa97">    8</a></span>&#160;<span class="keywordtype">int</span> <a class="code" href="main_8cc.html#a0ddf1224851353fc92bfbff6f499fa97">main</a>(<span class="keywordtype">int</span> argc, <span class="keywordtype">char</span> *argv[])</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;{</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    QApplication a(argc, argv);</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    a.setStyle(QStyleFactory::create(<span class="stringliteral">&quot;Fusion&quot;</span>));</div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;</div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;    <a class="code" href="class_model_1_1_model.html">Model::Model</a>* model = <span class="keyword">new</span> <a class="code" href="class_model_1_1_model.html">Model::Model</a>;</div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;    <a class="code" href="class_view_1_1_view.html">View::View</a>* view = <span class="keyword">new</span> <a class="code" href="class_view_1_1_view.html">View::View</a>;</div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    <a class="code" href="class_controller_1_1_controller.html">Controller::Controller</a>* controller = <span class="keyword">new</span> <a class="code" href="class_controller_1_1_controller.html">Controller::Controller</a>;</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;    model-&gt;<a class="code" href="class_model_1_1_model.html#ab690f2d34bac448b2c89cb96e8391439">setController</a>(controller);</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    model-&gt;<a class="code" href="class_model_1_1_model.html#a3e514fc4697bfcae2ccfced68dd5e725">initModel</a>();</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    view-&gt;<a class="code" href="class_view_1_1_view.html#a8eaab83aacfb592a6cbea40d24a8a9b7">setController</a>(controller);</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    view-&gt;show();</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    controller-&gt;<a class="code" href="class_controller_1_1_controller.html#a88b47fffe02698d09b6788d0aaa15ff7">setModel</a>(model);</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    controller-&gt;<a class="code" href="class_controller_1_1_controller.html#a9bbd9fad2e479248027e6c89618ec103">setView</a>(view);</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;    controller-&gt;<a class="code" href="class_controller_1_1_controller.html#a656923ae2095c6e646b5a46495a05179">startNewGame</a>();</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    <span class="keywordflow">return</span> a.exec();</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;}</div><div class="ttc" id="class_model_1_1_model_html_a3e514fc4697bfcae2ccfced68dd5e725"><div class="ttname"><a href="class_model_1_1_model.html#a3e514fc4697bfcae2ccfced68dd5e725">Model::Model::initModel</a></div><div class="ttdeci">void initModel()</div><div class="ttdoc">initModel alustaa Modellin tarvittavilla tiedoilla lukemalla XML-tiedoston sekä tarvittavat konfig-ti...</div><div class="ttdef"><b>Definition:</b> <a href="model_8cc_source.html#l00058">model.cc:58</a></div></div>
+<div class="ttc" id="controller_8hh_html"><div class="ttname"><a href="controller_8hh.html">controller.hh</a></div></div>
+<div class="ttc" id="class_model_1_1_model_html"><div class="ttname"><a href="class_model_1_1_model.html">Model::Model</a></div><div class="ttdef"><b>Definition:</b> <a href="model_8hh_source.html#l00025">model.hh:25</a></div></div>
+<div class="ttc" id="class_view_1_1_view_html"><div class="ttname"><a href="class_view_1_1_view.html">View::View</a></div><div class="ttdef"><b>Definition:</b> <a href="view_8hh_source.html#l00028">view.hh:28</a></div></div>
+<div class="ttc" id="view_8hh_html"><div class="ttname"><a href="view_8hh.html">view.hh</a></div></div>
+<div class="ttc" id="class_controller_1_1_controller_html_a656923ae2095c6e646b5a46495a05179"><div class="ttname"><a href="class_controller_1_1_controller.html#a656923ae2095c6e646b5a46495a05179">Controller::Controller::startNewGame</a></div><div class="ttdeci">void startNewGame()</div><div class="ttdoc">Alustaa näkymän. </div><div class="ttdef"><b>Definition:</b> <a href="controller_8cc_source.html#l00024">controller.cc:24</a></div></div>
+<div class="ttc" id="class_view_1_1_view_html_a8eaab83aacfb592a6cbea40d24a8a9b7"><div class="ttname"><a href="class_view_1_1_view.html#a8eaab83aacfb592a6cbea40d24a8a9b7">View::View::setController</a></div><div class="ttdeci">virtual void setController(Interface::ControllerInterface *controller)</div><div class="ttdoc">setController asettaa controllerin osoittimen muuttujaan controller_. </div><div class="ttdef"><b>Definition:</b> <a href="view_8cc_source.html#l00039">view.cc:39</a></div></div>
+<div class="ttc" id="main_8cc_html_a0ddf1224851353fc92bfbff6f499fa97"><div class="ttname"><a href="main_8cc.html#a0ddf1224851353fc92bfbff6f499fa97">main</a></div><div class="ttdeci">int main(int argc, char *argv[])</div><div class="ttdef"><b>Definition:</b> <a href="main_8cc_source.html#l00008">main.cc:8</a></div></div>
+<div class="ttc" id="class_controller_1_1_controller_html_a88b47fffe02698d09b6788d0aaa15ff7"><div class="ttname"><a href="class_controller_1_1_controller.html#a88b47fffe02698d09b6788d0aaa15ff7">Controller::Controller::setModel</a></div><div class="ttdeci">void setModel(Interface::ModelInterface *model)</div><div class="ttdoc">Asettaa kontrollerin modelin. </div><div class="ttdef"><b>Definition:</b> <a href="controller_8cc_source.html#l00012">controller.cc:12</a></div></div>
+<div class="ttc" id="class_controller_1_1_controller_html_a9bbd9fad2e479248027e6c89618ec103"><div class="ttname"><a href="class_controller_1_1_controller.html#a9bbd9fad2e479248027e6c89618ec103">Controller::Controller::setView</a></div><div class="ttdeci">void setView(Interface::ViewInterface *view)</div><div class="ttdoc">Asettaa kontrollerin näkymän. </div><div class="ttdef"><b>Definition:</b> <a href="controller_8cc_source.html#l00017">controller.cc:17</a></div></div>
+<div class="ttc" id="class_model_1_1_model_html_ab690f2d34bac448b2c89cb96e8391439"><div class="ttname"><a href="class_model_1_1_model.html#ab690f2d34bac448b2c89cb96e8391439">Model::Model::setController</a></div><div class="ttdeci">void setController(Interface::ControllerInterface *controller)</div><div class="ttdoc">setController asettaa controllerin osoittimen muuttujaan controller_. </div><div class="ttdef"><b>Definition:</b> <a href="model_8cc_source.html#l00040">model.cc:40</a></div></div>
+<div class="ttc" id="class_controller_1_1_controller_html"><div class="ttname"><a href="class_controller_1_1_controller.html">Controller::Controller</a></div><div class="ttdef"><b>Definition:</b> <a href="controller_8hh_source.html#l00010">controller.hh:10</a></div></div>
+<div class="ttc" id="model_8hh_html"><div class="ttname"><a href="model_8hh.html">model.hh</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="main_8cc.html">main.cc</a></li>
+    <li class="footer">Generoinut
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.12 </li>
+  </ul>
+</div>
+</body>
+</html>
