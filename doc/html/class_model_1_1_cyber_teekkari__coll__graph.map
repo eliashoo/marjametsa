@@ -1,5 +1,5 @@
 <map id="Model::CyberTeekkari" name="Model::CyberTeekkari">
-<area shape="rect" id="node2" href="$class_interface_1_1_actor_interface.html" title="ActorInterface on rajapintaluokka, josta peritään Player ja Cyberteekkari. " alt="" coords="127,409,285,648"/>
-<area shape="rect" id="node3" href="$class_model_1_1_equipment.html" title="{Model::Equipment\n||+ Equipment()\l+ Equipment()\l+ Equipment()\l+ Equipment()\l+ getPrice()\l+ getName()\l+ getType()\l+ getAmmo()\l+ getMaximumAmmoCapacity()\l+ getUpgradeLevel()\land 12 more...\l}" alt="" coords="309,417,516,641"/>
+<area shape="rect" id="node2" href="$class_interface_1_1_actor_interface.html" title="ActorInterface on rajapintaluokka, josta peritään Player ja Cyberteekkari. " alt="" coords="125,409,284,648"/>
+<area shape="rect" id="node3" href="$class_model_1_1_equipment.html" title="{Model::Equipment\n||+ Equipment()\l+ Equipment()\l+ Equipment()\l+ Equipment()\l+ getPrice()\l+ getName()\l+ getType()\l+ getAmmo()\l+ getMaximumAmmoCapacity()\l+ getUpgradeLevel()\land 12 more...\l}" alt="" coords="308,417,515,641"/>
 <area shape="rect" id="node4" href="$class_interface_1_1_equipment_interface.html" title="EquipmentInterface on rajapintaluokka, josta peritään tavaroita (Equipment). " alt="" coords="5,5,212,229"/>
 </map>

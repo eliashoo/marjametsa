@@ -1,3 +1,8 @@
 <map id="View::CityScape" name="View::CityScape">
-<area shape="rect" id="node2" href="$class_q_graphics_scene.html" title="{QGraphicsScene\n||}" alt="" coords="5,13,127,90"/>
+<area shape="rect" id="node2" href="$class_q_graphics_scene.html" title="{QGraphicsScene\n||}" alt="" coords="5,711,127,789"/>
+<area shape="rect" id="node6" href="$class_view_1_1_city_scape_parking_hall.html" title="{View::CityScapeParkingHall\n||+ CityScapeParkingHall()\l+ ~CityScapeParkingHall()\l+ getId()\l+ getX()\l+ getY()\l+ hoverEnterEvent()\l+ hoverLeaveEvent()\l+ mousePressEvent()\l+ setSelectionState()\l+ updateStatusDisplay()\l}" alt="" coords="518,432,702,641"/>
+<area shape="rect" id="node7" href="$class_q_object.html" title="{QObject\n||}" alt="" coords="339,197,409,274"/>
+<area shape="rect" id="node8" href="$class_q_graphics_pixmap_item.html" title="{QGraphicsPixmapItem\n||}" alt="" coords="433,197,587,274"/>
+<area shape="rect" id="node9" href="$class_view_1_1_city_scape_status_display.html" title="{View::CityScapeStatusDisplay\n||+ CityScapeStatusDisplay()\l+ ~CityScapeStatusDisplay()\l+ setFieldValues()\l+ getName()\l+ getParkedCars()\l+ getParkingSpaces()\l+ getEnemyActivity()\l+ getWorth()\l}" alt="" coords="611,145,809,325"/>
+<area shape="rect" id="node10" href="$class_q_widget.html" title="{QWidget\n||}" alt="" coords="600,5,673,83"/>
 </map>
