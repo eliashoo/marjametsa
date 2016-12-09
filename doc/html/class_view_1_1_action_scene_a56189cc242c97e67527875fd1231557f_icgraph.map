@@ -1,4 +1,0 @@
-<map id="View::ActionScene::addRemoveParty" name="View::ActionScene::addRemoveParty">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a727e0df9d7bcbf8c55214ccc532a8d4f" title="View::ActionScene::\lremoveDeadActor" alt="" coords="193,5,333,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a574fdaa80aa3fdc594a320ae708c2602" title="View::ActionScene::\lpartyKilled" alt="" coords="381,5,521,47"/>
-</map>

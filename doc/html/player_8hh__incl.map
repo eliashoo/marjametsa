@@ -1,6 +1,0 @@
-<map id="Model/player.hh" name="Model/player.hh">
-<area shape="rect" id="node5" href="$actorinterface_8hh.html" title="Määrittelee yhden toimijan operaatioiden rajapintaluokan. " alt="" coords="232,155,403,181"/>
-<area shape="rect" id="node8" href="$cyberteekkari_8hh.html" title="cyberteekkari.hh" alt="" coords="349,80,467,107"/>
-<area shape="rect" id="node9" href="$equipment_8hh.html" title="equipment.hh" alt="" coords="478,155,578,181"/>
-<area shape="rect" id="node7" href="$equipmentinterface_8hh.html" title="Määrittelee yhden tavaran (Equipment) operaatioiden rajapintaluokan. " alt="" coords="376,229,579,256"/>
-</map>

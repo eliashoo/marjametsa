@@ -1,5 +1,0 @@
-<map id="View::ActionScenePC" name="View::ActionScenePC">
-<area shape="rect" id="node2" href="$class_q_object.html" title="{QObject\n||}" alt="" coords="5,329,76,407"/>
-<area shape="rect" id="node3" href="$class_q_graphics_pixmap_item.html" title="{QGraphicsPixmapItem\n||}" alt="" coords="465,145,619,223"/>
-<area shape="rect" id="node9" href="$class_view_1_1_action_scene_feet.html" title="{View::ActionSceneFeet\n||+ ActionSceneFeet()\l+ ~ActionSceneFeet()\l+ setPosition()\l+ setRunning()\l+ nextFrame()\l}" alt="" coords="815,300,973,436"/>
-</map>

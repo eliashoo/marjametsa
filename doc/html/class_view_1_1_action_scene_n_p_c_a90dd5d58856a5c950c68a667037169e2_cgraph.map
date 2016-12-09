@@ -1,4 +1,0 @@
-<map id="View::ActionSceneNPC::step" name="View::ActionSceneNPC::step">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene_feet.html#adb3d6be92f4099f725c0f604f6d892d6" title="View::ActionSceneFeet\l::nextFrame" alt="" coords="212,5,371,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene_feet.html#a74dfcd6e4a0b5d3fc3dd27079107ecdc" title="View::ActionSceneFeet\l::setPosition" alt="" coords="212,71,371,112"/>
-</map>

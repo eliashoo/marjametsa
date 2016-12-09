@@ -1,5 +1,0 @@
-<map id="Model::Model::calculateAdditionalCost" name="Model::Model::calculateAdditionalCost">
-<area shape="rect" id="node2" href="$class_interface_1_1_equipment_interface.html#a3ed3cd94017850c3f0832bb76989ffdf" title="getAmmo palauttaa sen hetkisen määrän ammuksia. " alt="" coords="299,5,490,47"/>
-<area shape="rect" id="node3" href="$class_interface_1_1_equipment_interface.html#ab1f84a427430d2be47745e9d62c08d17" title="getMaximumAmmoCapacity palauttaa ammuksien mahdollisen maksimimäärän. " alt="" coords="297,71,492,112"/>
-<area shape="rect" id="node4" href="$class_interface_1_1_equipment_interface.html#ace854f7b94a063252c87cf6b2e57d48d" title="getPrice palauttaa tavaran hinnan. " alt="" coords="299,136,490,177"/>
-</map>

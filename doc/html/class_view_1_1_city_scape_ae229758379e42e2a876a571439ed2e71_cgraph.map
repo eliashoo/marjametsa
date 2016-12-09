@@ -1,7 +1,0 @@
-<map id="View::CityScape::addParkingHalls" name="View::CityScape::addParkingHalls">
-<area shape="rect" id="node2" href="$class_view_1_1_city_scape_parking_hall.html#a62488b42247af8bb68e960e1719df8ee" title="View::CityScapeParkingHall\l::getX" alt="" coords="244,5,428,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_city_scape_parking_hall.html#ab7bd1bf8519e9ed8ae777549f3d6b9cb" title="View::CityScapeParkingHall\l::getY" alt="" coords="244,71,428,112"/>
-<area shape="rect" id="node4" href="$class_view_1_1_city_scape.html#a7e513ea47343c6d639aa5382f729ce0b" title="View::CityScape::mission\lSelectRequested" alt="" coords="251,136,421,177"/>
-<area shape="rect" id="node5" href="$class_view_1_1_city_scape.html#a28f26c5eab36f128e4a612672563ca95" title="View::CityScape::parking\lHallInformationRequested" alt="" coords="251,201,421,243"/>
-<area shape="rect" id="node6" href="$class_view_1_1_city_scape.html#a48c22a3695750e5ce104cd8ab548ba3e" title="View::CityScape::parking\lHallSelectRequested" alt="" coords="252,267,420,308"/>
-</map>

@@ -1,3 +1,0 @@
-<map id="Interface::ControllerInterface" name="Interface::ControllerInterface">
-<area shape="rect" id="node2" href="$class_controller_1_1_controller.html" title="{Controller::Controller\n|&#45; model_\l&#45; view_\l|+ Controller()\l+ setModel()\l+ setView()\l+ startNewGame()\l+ weaponBuyRequestMade()\l+ weaponSellRequestMade()\l+ weaponReloadRequestMade()\l+ cyberBuyRequestMade()\l+ commenceResearchRequestMade()\l+ playerDataRequest()\land 14 more...\l&#45; getActor()\l&#45; checkEq()\l}" alt="" coords="5,277,247,545"/>
-</map>

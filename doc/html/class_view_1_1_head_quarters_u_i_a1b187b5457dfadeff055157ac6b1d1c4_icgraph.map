@@ -1,5 +1,0 @@
-<map id="View::HeadQuartersUI::UISelectResearchSignal" name="View::HeadQuartersUI::UISelectResearchSignal">
-<area shape="rect" id="node2" href="$class_view_1_1_head_quarters_u_i.html#a6068a9afa900ab4c5bc0d36a48c466e8" title="View::HeadQuartersUI\l::changeSelectedResearch" alt="" coords="224,5,403,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_head_quarters_u_i.html#a504906d7f958448301b500a3762ff618" title="View::HeadQuartersUI\l::connectShopUI" alt="" coords="451,5,601,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_head_quarters_u_i.html#a98db9788c668433314da83b183101f0c" title="View::HeadQuartersUI\l::HeadQuartersUI" alt="" coords="649,5,800,47"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Model::PlayerParty::actorHit" name="Model::PlayerParty::actorHit">
-<area shape="rect" id="node2" href="$class_model_1_1_player_party.html#ab33abac5217cb3fa2bda54d9f307d220" title="Model::PlayerParty\l::getActor" alt="" coords="207,5,340,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1_cyber_teekkari.html#adfe4eb738d7984604cf41f51a9b4e114" title="Model::CyberTeekkari\l::receivedHit" alt="" coords="199,71,347,112"/>
-<area shape="rect" id="node5" href="$class_model_1_1_player.html#a0470a457ee9b06bb927b7304df06cad4" title="Model::Player::receivedHit" alt="" coords="187,137,360,163"/>
-<area shape="rect" id="node4" href="$class_model_1_1_cyber_teekkari.html#a77b3323185bc503e56f72a9a54911fc0" title="Model::CyberTeekkari\l::setDead" alt="" coords="413,71,561,112"/>
-<area shape="rect" id="node6" href="$class_model_1_1_player.html#ab48c086305f764fd63bb6001181e7558" title="Model::Player::setDead" alt="" coords="408,137,567,163"/>
-</map>

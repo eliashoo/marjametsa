@@ -1,9 +1,0 @@
-<map id="Model::PlayerParty::getActor" name="Model::PlayerParty::getActor">
-<area shape="rect" id="node2" href="$class_model_1_1_player_party.html#aa1e19103d6fa60e0d9778011d68c6174" title="Model::PlayerParty\l::actorHit" alt="" coords="207,5,341,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1_player_party.html#a41db22ad04f47d79c457802cd9ac44b4" title="Model::PlayerParty\l::actorShot" alt="" coords="207,71,341,112"/>
-<area shape="rect" id="node4" href="$class_model_1_1_player_party.html#a53b10685aae564a3efd860b75b1fd2b4" title="Model::PlayerParty\l::healCyborg" alt="" coords="207,136,341,177"/>
-<area shape="rect" id="node5" href="$class_model_1_1_player_party.html#a85bb49e208ad8ccd47a984f289234f3a" title="Model::PlayerParty\l::hireCyborg" alt="" coords="207,201,341,243"/>
-<area shape="rect" id="node6" href="$class_model_1_1_player_party.html#a9d78fcd7e163b6ec2354f48d008ae191" title="Model::PlayerParty\l::reloadWeapon" alt="" coords="207,267,341,308"/>
-<area shape="rect" id="node7" href="$class_model_1_1_player_party.html#ac5ba86d83375dfbbb60e4b57ca6d8f50" title="Model::PlayerParty\l::retireCyborg" alt="" coords="207,332,341,373"/>
-<area shape="rect" id="node8" href="$class_model_1_1_player_party.html#a317b7002272f0c4de24cce7afd04e2bb" title="Model::PlayerParty\l::setParkingHallOwnership" alt="" coords="187,397,361,439"/>
-</map>

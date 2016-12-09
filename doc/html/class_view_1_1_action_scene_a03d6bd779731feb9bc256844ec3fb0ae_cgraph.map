@@ -1,8 +1,0 @@
-<map id="View::ActionScene::enemyPatrolled" name="View::ActionScene::enemyPatrolled">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a4d0be71c24a8d12a73a86fb6d917cc51" title="View::ActionScene::\lenemyWandered" alt="" coords="203,51,343,92"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene_n_p_c.html#a63c01e4d67db25532448053814a4a917" title="View::ActionSceneNPC\l::setAIMode" alt="" coords="400,5,559,47"/>
-<area shape="rect" id="node6" href="$class_view_1_1_action_scene_n_p_c.html#a2d64f4b6f2eb5eedb8360fb8dc33b606" title="View::ActionSceneNPC\l::moveToPoint" alt="" coords="400,84,559,125"/>
-<area shape="rect" id="node7" href="$class_view_1_1_action_scene_n_p_c.html#aebeb555dcc879bbab68a98565c5f8307" title="View::ActionSceneNPC\l::getMoving" alt="" coords="193,168,352,209"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene_n_p_c.html#a32b28c35cccc25fa39d60462235776f3" title="View::ActionSceneNPC\l::setRunSpeed" alt="" coords="607,5,765,47"/>
-<area shape="rect" id="node5" href="$class_view_1_1_action_scene_feet.html#a160793a00dcf4b16bcda158571f56773" title="View::ActionSceneFeet\l::setRunning" alt="" coords="813,5,972,47"/>
-</map>

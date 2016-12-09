@@ -1,7 +1,0 @@
-<map id="View::ActionSceneNPC::moveToPoint" name="View::ActionSceneNPC::moveToPoint">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a2406dfeb3e69091ae05e23ef396d08e3" title="View::ActionScene::\lenemyAttacked" alt="" coords="400,5,540,47"/>
-<area shape="rect" id="node5" href="$class_view_1_1_action_scene.html#a03d6bd779731feb9bc256844ec3fb0ae" title="View::ActionScene::\lenemyPatrolled" alt="" coords="400,71,540,112"/>
-<area shape="rect" id="node6" href="$class_view_1_1_action_scene.html#a4d0be71c24a8d12a73a86fb6d917cc51" title="View::ActionScene::\lenemyWandered" alt="" coords="212,125,352,167"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a2da7a8314a9d50cdccf82159f58e5097" title="View::ActionScene::\lspawnEnemy" alt="" coords="588,71,728,112"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#af2fabc7baae61ac07ca1a0a5d46814cf" title="View::ActionScene::\laddEnemies" alt="" coords="776,71,916,112"/>
-</map>

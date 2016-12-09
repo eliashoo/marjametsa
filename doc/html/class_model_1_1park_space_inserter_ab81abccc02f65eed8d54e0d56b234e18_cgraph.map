@@ -1,9 +1,0 @@
-<map id="Model::parkSpaceInserter::floodFill" name="Model::parkSpaceInserter::floodFill">
-<area shape="rect" id="node2" href="$class_model_1_1park_space_inserter.html#ab86507374576bb3c92a1356507065806" title="Model::parkSpaceInserter\l::getRelativeDirection" alt="" coords="224,5,395,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1map_generator.html#a02b91ca9a47b993e6fa14b9b0ad317f2" title="Get tile from point in tile coordinates. " alt="" coords="236,71,383,112"/>
-<area shape="rect" id="node4" href="$class_model_1_1map_generator.html#aaac1161126a56490862e3b5fffffbded" title="Model::mapGenerator\l::indexAt" alt="" coords="443,224,589,265"/>
-<area shape="rect" id="node6" href="$class_model_1_1map_generator.html#af153f95aea5145100546ad86ac4b9d02" title="Model::mapGenerator\l::indexToX" alt="" coords="236,188,383,229"/>
-<area shape="rect" id="node7" href="$class_model_1_1map_generator.html#a73020896792ce1a6aa4dd0ce2b9c5caf" title="Model::mapGenerator\l::indexToY" alt="" coords="236,253,383,295"/>
-<area shape="rect" id="node8" href="$class_model_1_1map_generator.html#a180f1510b8d7eb4af5dc919eeaddfa69" title="Model::mapGenerator\l::setTile" alt="" coords="236,319,383,360"/>
-<area shape="rect" id="node5" href="$class_model_1_1map_generator.html#a244ad56297f00ce2ab892d3b2a14ffac" title="Model::mapGenerator\l::isInMapRange" alt="" coords="637,224,784,265"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$class_model_1_1_model.html#a3e514fc4697bfcae2ccfced68dd5e725" title="initModel alustaa Modellin tarvittavilla tiedoilla lukemalla XML&#45;tiedoston sekä tarvittavat konfig&#45;ti..." alt="" coords="115,5,275,32"/>
-<area shape="rect" id="node3" href="$class_model_1_1_model.html#ab690f2d34bac448b2c89cb96e8391439" title="setController asettaa controllerin osoittimen muuttujaan controller_. " alt="" coords="104,56,285,83"/>
-<area shape="rect" id="node4" href="$class_view_1_1_view.html#a8eaab83aacfb592a6cbea40d24a8a9b7" title="setController asettaa controllerin osoittimen muuttujaan controller_. " alt="" coords="111,107,278,133"/>
-<area shape="rect" id="node5" href="$class_controller_1_1_controller.html#a88b47fffe02698d09b6788d0aaa15ff7" title="Asettaa kontrollerin modelin. " alt="" coords="125,158,265,199"/>
-<area shape="rect" id="node6" href="$class_controller_1_1_controller.html#a9bbd9fad2e479248027e6c89618ec103" title="Asettaa kontrollerin näkymän. " alt="" coords="125,223,265,265"/>
-<area shape="rect" id="node7" href="$class_controller_1_1_controller.html#a656923ae2095c6e646b5a46495a05179" title="Alustaa näkymän. " alt="" coords="125,289,265,330"/>
-<area shape="rect" id="node8" href="$class_interface_1_1_view_interface.html#a14f12a6ff3216389103c8c40b06234ff" title="initMap kertoo näkymälle, että model on alustettu ja näkymän voi alustaa. " alt="" coords="333,289,489,330"/>
-</map>

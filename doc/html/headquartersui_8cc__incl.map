@@ -1,7 +1,0 @@
-<map id="View/headquartersui.cc" name="View/headquartersui.cc">
-<area shape="rect" id="node2" href="$headquartersui_8hh.html" title="headquartersui.hh" alt="" coords="572,80,697,107"/>
-<area shape="rect" id="node3" href="$actorinterface_8hh.html" title="Määrittelee yhden toimijan operaatioiden rajapintaluokan. " alt="" coords="5,155,176,181"/>
-<area shape="rect" id="node6" href="$equipmentinterface_8hh.html" title="Määrittelee yhden tavaran (Equipment) operaatioiden rajapintaluokan. " alt="" coords="185,229,388,256"/>
-<area shape="rect" id="node7" href="$upgradeinterface_8hh.html" title="Interface/upgradeinterface.hh" alt="" coords="251,155,439,181"/>
-<area shape="rect" id="node8" href="$weaponinterface_8hh.html" title="Interface/weaponinterface.hh" alt="" coords="464,155,651,181"/>
-</map>

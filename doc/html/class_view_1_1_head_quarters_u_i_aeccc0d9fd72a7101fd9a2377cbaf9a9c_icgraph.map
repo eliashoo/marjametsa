@@ -1,5 +1,0 @@
-<map id="View::HeadQuartersUI::UIReloadWeaponSignal" name="View::HeadQuartersUI::UIReloadWeaponSignal">
-<area shape="rect" id="node2" href="$class_view_1_1_head_quarters_u_i.html#a0508cada4f9b06a59e32f4967b1a3070" title="View::HeadQuartersUI\l::reloadWeaponButtonPushed" alt="" coords="220,5,415,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_head_quarters_u_i.html#a504906d7f958448301b500a3762ff618" title="View::HeadQuartersUI\l::connectShopUI" alt="" coords="463,5,613,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_head_quarters_u_i.html#a98db9788c668433314da83b183101f0c" title="View::HeadQuartersUI\l::HeadQuartersUI" alt="" coords="661,5,812,47"/>
-</map>

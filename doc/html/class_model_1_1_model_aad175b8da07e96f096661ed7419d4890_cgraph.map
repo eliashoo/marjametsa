@@ -1,6 +1,0 @@
-<map id="Model::Model::sellEquipment" name="Model::Model::sellEquipment">
-<area shape="rect" id="node2" href="$class_interface_1_1_equipment_interface.html#aa1daaba013f75438fa61ba36de568dfc" title="getName palauttaa kyseisen tavaran nimen. " alt="" coords="244,5,435,47"/>
-<area shape="rect" id="node3" href="$class_interface_1_1_equipment_interface.html#ace854f7b94a063252c87cf6b2e57d48d" title="getPrice palauttaa tavaran hinnan. " alt="" coords="244,71,435,112"/>
-<area shape="rect" id="node4" href="$class_model_1_1_cyber_teekkari.html#a92758b882cb853cc3d12d72570658db7" title="getWeapon palauttaa viitteen Actorin aseeseen, slotissa 1 tai 2. " alt="" coords="265,136,413,177"/>
-<area shape="rect" id="node5" href="$class_model_1_1_player.html#a0fc19cc3413063d0f26bf86b7967823e" title="getWeapon palauttaa viitteen Actorin aseeseen, slotissa 1 tai 2. " alt="" coords="251,202,427,229"/>
-</map>

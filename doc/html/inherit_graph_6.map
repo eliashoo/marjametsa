@@ -1,5 +1,0 @@
-<map id="Graafinen luokkahierarkia" name="Graafinen luokkahierarkia">
-<area shape="rect" id="node1" href="$class_q_main_window.html" title="QMainWindow" alt="" coords="30,5,137,32"/>
-<area shape="rect" id="node2" href="$class_view_1_1_view.html" title="View::View" alt="" coords="209,31,296,57"/>
-<area shape="rect" id="node3" href="$class_interface_1_1_view_interface.html" title="ViewInterface on rajapintaluokka, jota controller käyttää. " alt="" coords="5,56,161,83"/>
-</map>

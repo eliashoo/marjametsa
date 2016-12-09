@@ -1,5 +1,0 @@
-<map id="View::ActionScene::checkBlockedView" name="View::ActionScene::checkBlockedView">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a8ecad0a68a274799549da0adce49ea09" title="View::ActionScene::\lupdateEnemyLineOfSight" alt="" coords="193,5,363,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a2da7a8314a9d50cdccf82159f58e5097" title="View::ActionScene::\lspawnEnemy" alt="" coords="411,5,551,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#af2fabc7baae61ac07ca1a0a5d46814cf" title="View::ActionScene::\laddEnemies" alt="" coords="599,5,739,47"/>
-</map>

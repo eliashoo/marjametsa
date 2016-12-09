@@ -1,5 +1,0 @@
-<map id="Model::Equipment::increaseUpgradeLevel" name="Model::Equipment::increaseUpgradeLevel">
-<area shape="rect" id="node2" href="$class_model_1_1_cyber_teekkari.html#a970088d796bb90c510e477270f0c02f2" title="Model::CyberTeekkari\l::buyUpgrade" alt="" coords="253,5,401,47"/>
-<area shape="rect" id="node4" href="$class_model_1_1_player.html#aa6f794265ed4142993311792aefdd9dc" title="Model::Player::buyUpgrade" alt="" coords="237,71,416,98"/>
-<area shape="rect" id="node3" href="$class_model_1_1_model.html#a1e5c842c7a2cd9e8dbb8798bf733d748" title="buyEquipment ostaa tavaran (Equipment) joko pelaajalle tai cyberteekkarille. " alt="" coords="464,42,655,69"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="View::ActionScene::partyKilled" name="View::ActionScene::partyKilled">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a727e0df9d7bcbf8c55214ccc532a8d4f" title="View::ActionScene::\lremoveDeadActor" alt="" coords="227,5,367,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene_big_explosion.html#a414c6886ec563230da882dc949c61143" title="View::ActionSceneBigExplosion\l::setPosition" alt="" coords="193,71,401,112"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a56189cc242c97e67527875fd1231557f" title="View::ActionScene::\laddRemoveParty" alt="" coords="449,5,589,47"/>
-</map>

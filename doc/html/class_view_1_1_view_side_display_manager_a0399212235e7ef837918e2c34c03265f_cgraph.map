@@ -1,6 +1,0 @@
-<map id="View::ViewSideDisplayManager::missionFinishSelections" name="View::ViewSideDisplayManager::missionFinishSelections">
-<area shape="rect" id="node2" href="$class_view_1_1_view_side_display_manager.html#af8744ac5c83cd4bd7a085c68f3ed8bd1" title="View::ViewSideDisplayManager\l::changeSelectedActor" alt="" coords="259,5,464,47"/>
-<area shape="rect" id="node5" href="$class_view_1_1_view_side_display_manager.html#a5cb0bcdc7216d8bbb5e1e07a2f229048" title="View::ViewSideDisplayManager\l::setSelectedWeapon" alt="" coords="259,71,464,112"/>
-<area shape="rect" id="node3" href="$class_view_1_1_view_side_display_manager.html#a03bec5a21a27ffb9d4252fd304b003e8" title="View::ViewSideDisplayManager\l::getDisplay" alt="" coords="512,39,717,80"/>
-<area shape="rect" id="node4" href="$class_view_1_1_view_side_display_manager.html#abca30c6d51d72600c52da502dcd61093" title="View::ViewSideDisplayManager\l::getIndex" alt="" coords="765,39,971,80"/>
-</map>

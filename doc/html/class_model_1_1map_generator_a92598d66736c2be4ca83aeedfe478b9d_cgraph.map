@@ -1,4 +1,0 @@
-<map id="Model::mapGenerator::GetSurroundingWallCount" name="Model::mapGenerator::GetSurroundingWallCount">
-<area shape="rect" id="node2" href="$class_model_1_1map_generator.html#a02b91ca9a47b993e6fa14b9b0ad317f2" title="Get tile from point in tile coordinates. " alt="" coords="233,5,380,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1map_generator.html#a244ad56297f00ce2ab892d3b2a14ffac" title="Model::mapGenerator\l::isInMapRange" alt="" coords="233,71,380,112"/>
-</map>

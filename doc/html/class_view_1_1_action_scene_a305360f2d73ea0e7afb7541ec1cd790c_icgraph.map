@@ -1,5 +1,0 @@
-<map id="View::ActionScene::addFloor" name="View::ActionScene::addFloor">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#ade415911403812f06b29a9e1933ea678" title="View::ActionScene::\lActionScene" alt="" coords="381,24,521,66"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#acb081c1f39c5139bcdfcde6ef14fdefe" title="View::ActionScene::\laddExit" alt="" coords="193,24,333,66"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#a3204a5607fe245f150aaa71dd7fcf4eb" title="View::ActionScene::\laddGuard" alt="" coords="193,90,333,131"/>
-</map>

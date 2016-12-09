@@ -1,8 +1,0 @@
-<map id="Model/filemanager.hh" name="Model/filemanager.hh">
-<area shape="rect" id="node4" href="$equipment_8hh.html" title="equipment.hh" alt="" coords="51,155,151,181"/>
-<area shape="rect" id="node7" href="$weapon_8hh.html" title="weapon.hh" alt="" coords="227,80,311,107"/>
-<area shape="rect" id="node9" href="$upgrade_8hh.html" title="upgrade.hh" alt="" coords="387,80,474,107"/>
-<area shape="rect" id="node6" href="$equipmentinterface_8hh.html" title="Määrittelee yhden tavaran (Equipment) operaatioiden rajapintaluokan. " alt="" coords="160,229,363,256"/>
-<area shape="rect" id="node8" href="$weaponinterface_8hh.html" title="Interface/weaponinterface.hh" alt="" coords="176,155,363,181"/>
-<area shape="rect" id="node10" href="$upgradeinterface_8hh.html" title="Interface/upgradeinterface.hh" alt="" coords="387,155,575,181"/>
-</map>

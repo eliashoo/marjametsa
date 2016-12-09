@@ -1,6 +1,0 @@
-<map id="Model::PlayerParty::healCyborg" name="Model::PlayerParty::healCyborg">
-<area shape="rect" id="node2" href="$class_model_1_1_player_party.html#ab33abac5217cb3fa2bda54d9f307d220" title="Model::PlayerParty\l::getActor" alt="" coords="214,5,347,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1_player.html#ac07882d93b2cb812e28a0c5488217983" title="Model::Player::healAmount" alt="" coords="191,71,370,98"/>
-<area shape="rect" id="node4" href="$class_model_1_1_cyber_teekkari.html#a1ed0532bce2499eddbde70aa51f36f80" title="Model::CyberTeekkari\l::healAmount" alt="" coords="207,123,355,164"/>
-<area shape="rect" id="node5" href="$class_model_1_1_player.html#ae8fcb8a8968fcfaeb7691c5af5a6b198" title="Model::Player::reduceMoney" alt="" coords="187,189,375,215"/>
-</map>

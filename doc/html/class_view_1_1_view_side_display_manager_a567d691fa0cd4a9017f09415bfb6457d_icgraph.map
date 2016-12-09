@@ -1,5 +1,0 @@
-<map id="View::ViewSideDisplayManager::setMissionLabelsVisible" name="View::ViewSideDisplayManager::setMissionLabelsVisible">
-<area shape="rect" id="node2" href="$class_view_1_1_view_side_display_manager.html#abab63b804da95de877fc6ff678deaef5" title="View::ViewSideDisplayManager\l::initAllDisplays" alt="" coords="259,5,464,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_view_side_display_manager.html#a6ca9a3244500aec9cfd699d1bd2c773a" title="View::ViewSideDisplayManager\l::updateMissionDisplay" alt="" coords="259,71,464,112"/>
-<area shape="rect" id="node3" href="$class_view_1_1_view.html#a9d10d5054148916f34d329f68186fee0" title="View::View::initUI" alt="" coords="512,13,635,39"/>
-</map>

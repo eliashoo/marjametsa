@@ -1,7 +1,0 @@
-<map id="Model::CyberTeekkari::getStat" name="Model::CyberTeekkari::getStat">
-<area shape="rect" id="node2" href="$class_interface_1_1_equipment_interface.html#ab0320958208820b425f52c97eadf2ab0" title="getAccuracy palauttaa equipmentin ampumisnopeuden. " alt="" coords="201,5,392,47"/>
-<area shape="rect" id="node3" href="$class_interface_1_1_equipment_interface.html#afb616d9719d5934118696d81a84a21d5" title="getDamage " alt="" coords="201,71,392,112"/>
-<area shape="rect" id="node4" href="$class_interface_1_1_equipment_interface.html#a5a33b76327b54afb1693a7130118d994" title="getRange " alt="" coords="201,136,392,177"/>
-<area shape="rect" id="node5" href="$class_interface_1_1_equipment_interface.html#a3291bb7c169624680e8148243da593b8" title="getRate " alt="" coords="201,201,392,243"/>
-<area shape="rect" id="node6" href="$class_model_1_1_cyber_teekkari.html#a92758b882cb853cc3d12d72570658db7" title="getWeapon palauttaa viitteen Actorin aseeseen, slotissa 1 tai 2. " alt="" coords="223,267,371,308"/>
-</map>

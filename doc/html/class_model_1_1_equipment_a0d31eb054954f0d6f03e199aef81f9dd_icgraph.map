@@ -1,5 +1,0 @@
-<map id="Model::Equipment::shoot" name="Model::Equipment::shoot">
-<area shape="rect" id="node2" href="$class_model_1_1_cyber_teekkari.html#a3c24a4b1f28a4ddb5a3d41c2e8a0b889" title="Model::CyberTeekkari\l::shoot" alt="" coords="220,5,368,47"/>
-<area shape="rect" id="node4" href="$class_model_1_1_player.html#a0717b17761f50c25ef6070239a031b2b" title="Model::Player::shoot" alt="" coords="223,71,365,98"/>
-<area shape="rect" id="node3" href="$class_model_1_1_player_party.html#a41db22ad04f47d79c457802cd9ac44b4" title="Model::PlayerParty\l::actorShot" alt="" coords="416,35,549,76"/>
-</map>

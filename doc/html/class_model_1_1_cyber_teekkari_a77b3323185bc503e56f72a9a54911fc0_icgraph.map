@@ -1,6 +1,0 @@
-<map id="Model::CyberTeekkari::setDead" name="Model::CyberTeekkari::setDead">
-<area shape="rect" id="node2" href="$class_model_1_1_player_party.html#a648874aaffc776c7d45b20a8ef599719" title="Model::PlayerParty\l::PlayerParty" alt="" coords="209,5,342,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1_cyber_teekkari.html#adfe4eb738d7984604cf41f51a9b4e114" title="Model::CyberTeekkari\l::receivedHit" alt="" coords="201,71,349,112"/>
-<area shape="rect" id="node5" href="$class_model_1_1_player_party.html#ac5ba86d83375dfbbb60e4b57ca6d8f50" title="Model::PlayerParty\l::retireCyborg" alt="" coords="209,136,342,177"/>
-<area shape="rect" id="node4" href="$class_model_1_1_player_party.html#aa1e19103d6fa60e0d9778011d68c6174" title="Model::PlayerParty\l::actorHit" alt="" coords="397,71,531,112"/>
-</map>

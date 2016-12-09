@@ -1,4 +1,0 @@
-<map id="Interface::EquipmentInterface::getDamage" name="Interface::EquipmentInterface::getDamage">
-<area shape="rect" id="node2" href="$class_model_1_1_cyber_teekkari.html#a70a056a65de5a36e565fbd4c834b2414" title="getStat palauttaa arvon halutusta aseen statista ja mukana on myos parannuksien vaikutus. " alt="" coords="246,5,394,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1_player.html#ad20e376ed4e84d858c79239f8cc4dfcb" title="getStat palauttaa arvon halutusta aseen statista ja mukana on myos parannuksien vaikutus. " alt="" coords="244,71,396,98"/>
-</map>

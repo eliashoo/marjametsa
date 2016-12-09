@@ -1,4 +1,0 @@
-<map id="View::ActionScene::checkShotCollision" name="View::ActionScene::checkShotCollision">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene_n_p_c.html#a9065e80ab1349445972a44657234a35f" title="View::ActionSceneNPC\l::getId" alt="" coords="193,5,352,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene_n_p_c.html#a5d04b31e451848aec804ce99864800ca" title="View::ActionSceneNPC\l::isDead" alt="" coords="193,71,352,112"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="View::ActionSceneNPC::getTarget" name="View::ActionSceneNPC::getTarget">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a2406dfeb3e69091ae05e23ef396d08e3" title="View::ActionScene::\lenemyAttacked" alt="" coords="227,5,367,47"/>
-<area shape="rect" id="node5" href="$class_view_1_1_action_scene.html#a8ecad0a68a274799549da0adce49ea09" title="View::ActionScene::\lupdateEnemyLineOfSight" alt="" coords="212,71,381,112"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a2da7a8314a9d50cdccf82159f58e5097" title="View::ActionScene::\lspawnEnemy" alt="" coords="429,39,569,80"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#af2fabc7baae61ac07ca1a0a5d46814cf" title="View::ActionScene::\laddEnemies" alt="" coords="617,39,757,80"/>
-</map>

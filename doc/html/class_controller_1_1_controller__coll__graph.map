@@ -1,5 +1,0 @@
-<map id="Controller::Controller" name="Controller::Controller">
-<area shape="rect" id="node2" href="$class_interface_1_1_controller_interface.html" title="{Interface::ControllerInterface\n||+ ControllerInterface()\l+ ~ControllerInterface()\l+ setModel()\l+ setView()\l+ startNewGame()\l+ weaponBuyRequestMade()\l+ weaponSellRequestMade()\l+ weaponReloadRequestMade()\l+ cyberBuyRequestMade()\l+ commenceResearchRequestMade()\land 14 more...\l}" alt="" coords="5,5,247,229"/>
-<area shape="rect" id="node3" href="$class_interface_1_1_view_interface.html" title="ViewInterface on rajapintaluokka, jota controller käyttää. " alt="" coords="271,5,458,229"/>
-<area shape="rect" id="node4" href="$class_interface_1_1_model_interface.html" title="{Interface::ModelInterface\n||+ ModelInterface()\l+ ~ModelInterface()\l+ setController()\l+ initModel()\l+ getParkingHalls()\l+ getPlayerData()\l+ getEquipmentData()\l+ getParkingHallById()\l+ buyEquipment()\l+ reloadWeapon()\land 16 more...\l}" alt="" coords="482,5,645,229"/>
-</map>

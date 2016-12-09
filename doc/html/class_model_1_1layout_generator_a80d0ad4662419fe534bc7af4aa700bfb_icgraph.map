@@ -1,4 +1,0 @@
-<map id="Model::layoutGenerator::randomRoom" name="Model::layoutGenerator::randomRoom">
-<area shape="rect" id="node2" href="$class_model_1_1layout_generator.html#a6b14394cdb9e6040233a91220cddcc93" title="Model::layoutGenerator\l::generateHall" alt="" coords="211,5,368,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1map_generator.html#a08a1dc669cda9401647f81d61611931d" title="Generate new hall with enemyCount. " alt="" coords="416,5,563,47"/>
-</map>

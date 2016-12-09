@@ -1,5 +1,0 @@
-<map id="View::ActionScene::movePCs" name="View::ActionScene::movePCs">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a9c9751aa5663b998d81840048e13c9be" title="View::ActionScene::\linitPCs" alt="" coords="205,5,345,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a888e6919c4e370d2476e2198be5515cf" title="View::ActionScene::\lmouseDoubleClickEvent" alt="" coords="193,71,356,112"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#a4918342195d3231e21c6a24fa146ed14" title="View::ActionScene::\lmousePressEvent" alt="" coords="205,136,345,177"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Graafinen luokkahierarkia" name="Graafinen luokkahierarkia">
-<area shape="rect" id="node1" href="$class_interface_1_1_actor_interface.html" title="ActorInterface on rajapintaluokka, josta peritään Player ja Cyberteekkari. " alt="" coords="5,31,164,57"/>
-<area shape="rect" id="node2" href="$class_model_1_1_cyber_teekkari.html" title="Model::CyberTeekkari" alt="" coords="212,5,360,32"/>
-<area shape="rect" id="node3" href="$class_model_1_1_player.html" title="Model::Player" alt="" coords="235,56,337,83"/>
-</map>

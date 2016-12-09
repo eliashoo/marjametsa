@@ -1,5 +1,0 @@
-<map id="View::HeadQuartersUI::UIHireActorSignal" name="View::HeadQuartersUI::UIHireActorSignal">
-<area shape="rect" id="node2" href="$class_view_1_1_head_quarters_u_i.html#aa4cf289bec574f4ba216570e3815e683" title="View::HeadQuartersUI\l::hireActorButtonPushed" alt="" coords="204,5,368,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_head_quarters_u_i.html#a504906d7f958448301b500a3762ff618" title="View::HeadQuartersUI\l::connectShopUI" alt="" coords="416,5,567,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_head_quarters_u_i.html#a98db9788c668433314da83b183101f0c" title="View::HeadQuartersUI\l::HeadQuartersUI" alt="" coords="615,5,765,47"/>
-</map>

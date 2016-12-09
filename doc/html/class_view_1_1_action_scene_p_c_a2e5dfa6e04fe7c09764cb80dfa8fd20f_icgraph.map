@@ -1,6 +1,0 @@
-<map id="View::ActionScenePC::shot" name="View::ActionScenePC::shot">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene_p_c.html#a3a24db19c0ac423905ab2cb31d387575" title="View::ActionScenePC\l::shoot" alt="" coords="204,73,355,115"/>
-<area shape="rect" id="node5" href="$class_view_1_1_action_scene_p_c.html#a7afaff64d6ed89491e87924461270084" title="View::ActionScenePC\l::type" alt="" coords="403,136,553,177"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene_p_c.html#a714b6915be90d0961d30be1cc19056b9" title="View::ActionScenePC\l::ActionScenePC" alt="" coords="403,5,553,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene_p_c.html#aff8e1d5df8a17b2568d14168042bc46a" title="View::ActionScenePC\l::startShooting" alt="" coords="403,71,553,112"/>
-</map>

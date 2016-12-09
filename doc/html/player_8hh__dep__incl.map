@@ -1,8 +1,0 @@
-<map id="Model/player.hh" name="Model/player.hh">
-<area shape="rect" id="node2" href="$model_8hh.html" title="Model/model.hh" alt="" coords="39,155,154,181"/>
-<area shape="rect" id="node5" href="$playerparty_8hh.html" title="Model/playerparty.hh" alt="" coords="135,80,277,107"/>
-<area shape="rect" id="node7" href="$player_8cc.html" title="Model/player.cc" alt="" coords="302,80,417,107"/>
-<area shape="rect" id="node3" href="$main_8cc.html" title="main.cc" alt="" coords="5,229,73,256"/>
-<area shape="rect" id="node4" href="$model_8cc.html" title="Model/model.cc" alt="" coords="98,229,213,256"/>
-<area shape="rect" id="node6" href="$playerparty_8cc.html" title="Model/playerparty.cc" alt="" coords="179,155,321,181"/>
-</map>

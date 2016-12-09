@@ -1,6 +1,0 @@
-<map id="View::ActionScene::partyHitSignal" name="View::ActionScene::partyHitSignal">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#a6bfb112aa7244a19a1f1c1e7444a2195" title="View::ActionScene::\lactorWasHit" alt="" coords="193,5,333,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a2406dfeb3e69091ae05e23ef396d08e3" title="View::ActionScene::\lenemyAttacked" alt="" coords="381,5,521,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#a2da7a8314a9d50cdccf82159f58e5097" title="View::ActionScene::\lspawnEnemy" alt="" coords="569,5,709,47"/>
-<area shape="rect" id="node5" href="$class_view_1_1_action_scene.html#af2fabc7baae61ac07ca1a0a5d46814cf" title="View::ActionScene::\laddEnemies" alt="" coords="757,5,897,47"/>
-</map>

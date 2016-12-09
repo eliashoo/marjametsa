@@ -1,6 +1,0 @@
-<map id="Model::Model::buyEquipment" name="Model::Model::buyEquipment">
-<area shape="rect" id="node2" href="$class_model_1_1_cyber_teekkari.html#a970088d796bb90c510e477270f0c02f2" title="Model::CyberTeekkari\l::buyUpgrade" alt="" coords="259,5,407,47"/>
-<area shape="rect" id="node5" href="$class_model_1_1_player.html#aa6f794265ed4142993311792aefdd9dc" title="Model::Player::buyUpgrade" alt="" coords="244,71,423,98"/>
-<area shape="rect" id="node3" href="$class_model_1_1_equipment.html#a8be8a33c92616dddefffa429c812e5a6" title="getName palauttaa kyseisen tavaran nimen. " alt="" coords="471,13,657,39"/>
-<area shape="rect" id="node4" href="$class_model_1_1_equipment.html#a21933fbc1922db1718fe4d6be6c9bc2f" title="Model::Equipment::increase\lUpgradeLevel" alt="" coords="472,64,656,105"/>
-</map>

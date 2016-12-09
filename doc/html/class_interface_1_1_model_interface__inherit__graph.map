@@ -1,3 +1,0 @@
-<map id="Interface::ModelInterface" name="Interface::ModelInterface">
-<area shape="rect" id="node2" href="$class_model_1_1_model.html" title="{Model::Model\n|&#45; controller_\l&#45; reader_\l&#45; parkingHalls_\l&#45; playerPartyData_\l&#45; fileManager_\l&#45; equipment_\l&#45; manager_\l&#45; initialisationState_\l&#45; parkingHallGenerator\l&#45; enemies_\l&#45; updateTimer_\l|+ Model()\l+ ~Model()\l+ setController()\l+ initModel()\l+ getParkingHalls()\l+ getPlayerData()\l+ getEquipmentData()\l+ getParkingHallById()\l+ buyEquipment()\l+ reloadWeapon()\land 16 more...\l+ updateParkingHallsData()\l+ requestNewData()\l&#45; setDefaultSettingsToPlayer()\l&#45; calculateAdditionalCost()\l&#45; findEquipment()\l}" alt="" coords="5,277,200,721"/>
-</map>

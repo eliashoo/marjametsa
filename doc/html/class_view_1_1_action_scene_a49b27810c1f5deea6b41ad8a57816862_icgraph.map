@@ -1,5 +1,0 @@
-<map id="View::ActionScene::enemyHitSignal" name="View::ActionScene::enemyHitSignal">
-<area shape="rect" id="node2" href="$class_view_1_1_action_scene.html#aae98cc0bf8648ab049ff79a902701e73" title="View::ActionScene::\lcheckShotCollision" alt="" coords="193,5,333,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_action_scene.html#a5ef79714e0a56179cf0518071879a2dd" title="View::ActionScene::\lshootTheShot" alt="" coords="381,5,521,47"/>
-<area shape="rect" id="node4" href="$class_view_1_1_action_scene.html#a9c9751aa5663b998d81840048e13c9be" title="View::ActionScene::\linitPCs" alt="" coords="569,5,709,47"/>
-</map>
