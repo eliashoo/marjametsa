@@ -13,7 +13,7 @@ var class_interface_1_1_controller_interface =
     [ "getParkingHallLayout", "class_interface_1_1_controller_interface.html#a16bc3a57e019713af6046c0c676137e4", null ],
     [ "healCyborgRequestMade", "class_interface_1_1_controller_interface.html#a27aac6c0a39a5a36a2f8a489e246099b", null ],
     [ "hireCyborgRequestMade", "class_interface_1_1_controller_interface.html#a89e41c3f5029041f79eab740bcaa420a", null ],
-    [ "missionStartRequest", "class_interface_1_1_controller_interface.html#ab63bffb087c1e73992d6ca988afa3fac", null ],
+    [ "missionStartRequest", "class_interface_1_1_controller_interface.html#a5ef37c83251759de1fe6d11ae069e1b6", null ],
     [ "parkingHallTaken", "class_interface_1_1_controller_interface.html#a832943ddb9d21b83ec2680d7c47ad756", null ],
     [ "parkingHallUpdateRequest", "class_interface_1_1_controller_interface.html#aa2569965b43ba3c2ce392053f67505a4", null ],
     [ "playerDataRequest", "class_interface_1_1_controller_interface.html#a1710b27a00c19d317b34708e85b8ac12", null ],

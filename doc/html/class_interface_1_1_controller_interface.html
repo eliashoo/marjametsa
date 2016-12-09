@@ -70,14 +70,12 @@ $(document).ready(function(){initNavTree('class_interface_1_1_controller_interfa
 <div class="dynheader">
 Luokan Interface::ControllerInterface luokkakaavio</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_interface_1_1_controller_interface__inherit__graph.svg" width="252" height="551"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_interface_1_1_controller_interface__inherit__graph.svg" width="252" height="551"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <div class="dynheader">
 Yhteistyökaavio luokalle Interface::ControllerInterface:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_interface_1_1_controller_interface__coll__graph.svg" width="252" height="235"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_interface_1_1_controller_interface__coll__graph.svg" width="252" height="235"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -129,9 +127,9 @@ Julkiset jäsenfunktiot</h2></td></tr>
 <tr class="memitem:a16bc3a57e019713af6046c0c676137e4"><td class="memItemLeft" align="right" valign="top">virtual struct <a class="el" href="struct_interface_1_1_parkin_hall_layout_interface_1_1_layout.html">ParkinHallLayoutInterface::Layout</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_controller_interface.html#a16bc3a57e019713af6046c0c676137e4">getParkingHallLayout</a> ()=0</td></tr>
 <tr class="memdesc:a16bc3a57e019713af6046c0c676137e4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Palauttaa parkkihallin layoutin.  <a href="#a16bc3a57e019713af6046c0c676137e4">Lisää...</a><br /></td></tr>
 <tr class="separator:a16bc3a57e019713af6046c0c676137e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab63bffb087c1e73992d6ca988afa3fac"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_controller_interface.html#ab63bffb087c1e73992d6ca988afa3fac">missionStartRequest</a> (QString selectedParkingHall, int width, int height)=0</td></tr>
-<tr class="memdesc:ab63bffb087c1e73992d6ca988afa3fac"><td class="mdescLeft">&#160;</td><td class="mdescRight">Käsitellään tehtävänaloituspyyntö ja generoidaan parkkihalli.  <a href="#ab63bffb087c1e73992d6ca988afa3fac">Lisää...</a><br /></td></tr>
-<tr class="separator:ab63bffb087c1e73992d6ca988afa3fac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ef37c83251759de1fe6d11ae069e1b6"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_controller_interface.html#a5ef37c83251759de1fe6d11ae069e1b6">missionStartRequest</a> (QString selectedParkingHall)=0</td></tr>
+<tr class="memdesc:a5ef37c83251759de1fe6d11ae069e1b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Käsitellään tehtävänaloituspyyntö ja generoidaan parkkihalli.  <a href="#a5ef37c83251759de1fe6d11ae069e1b6">Lisää...</a><br /></td></tr>
+<tr class="separator:a5ef37c83251759de1fe6d11ae069e1b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af119ded1b7e2fed5b79d4553b2524df1"><td class="memItemLeft" align="right" valign="top">virtual QPoint&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_controller_interface.html#af119ded1b7e2fed5b79d4553b2524df1">getEntryPoint</a> ()=0</td></tr>
 <tr class="memdesc:af119ded1b7e2fed5b79d4553b2524df1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pelaajan aloituspiste tile-koordinaateissa.  <a href="#af119ded1b7e2fed5b79d4553b2524df1">Lisää...</a><br /></td></tr>
 <tr class="separator:af119ded1b7e2fed5b79d4553b2524df1"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -639,8 +637,8 @@ Julkiset jäsenfunktiot</h2></td></tr>
 
 </div>
 </div>
-<a id="ab63bffb087c1e73992d6ca988afa3fac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab63bffb087c1e73992d6ca988afa3fac">&sect;&nbsp;</a></span>missionStartRequest()</h2>
+<a id="a5ef37c83251759de1fe6d11ae069e1b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ef37c83251759de1fe6d11ae069e1b6">&sect;&nbsp;</a></span>missionStartRequest()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -652,24 +650,8 @@ Julkiset jäsenfunktiot</h2></td></tr>
           <td class="memname">virtual void Interface::ControllerInterface::missionStartRequest </td>
           <td>(</td>
           <td class="paramtype">QString&#160;</td>
-          <td class="paramname"><em>selectedParkingHall</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"><em>selectedParkingHall</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>width</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>height</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -683,15 +665,13 @@ Julkiset jäsenfunktiot</h2></td></tr>
 <dl class="params"><dt>Parametrit</dt><dd>
   <table class="params">
     <tr><td class="paramname">selectedParkingHall</td><td></td></tr>
-    <tr><td class="paramname">width</td><td>generoitavan hallin leveys </td></tr>
-    <tr><td class="paramname">height</td><td>generoitavan hallin korkeus </td></tr>
   </table>
   </dd>
 </dl>
 <dl class="section pre"><dt>Esiehto</dt><dd>selectedParkingHall oltava olemassa </dd></dl>
 <dl class="section post"><dt>Jälkiehto</dt><dd>näkymästä kutsuttu initMission ja malliin asetettu viholliset </dd></dl>
 
-<p>Toteutettu luokassa <a class="el" href="class_controller_1_1_controller.html#a30999ef9e647a6a7ff62db0f5bf7dc3a">Controller::Controller</a>.</p>
+<p>Toteutettu luokassa <a class="el" href="class_controller_1_1_controller.html#a34a4b90e0e6be1861aedae51965f645a">Controller::Controller</a>.</p>
 
 </div>
 </div>

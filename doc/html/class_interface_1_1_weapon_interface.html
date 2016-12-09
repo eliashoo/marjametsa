@@ -76,7 +76,7 @@ Luokan Interface::WeaponInterface luokkakaavio</div>
 <div class="dynheader">
 Yhteistyökaavio luokalle Interface::WeaponInterface:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_interface_1_1_weapon_interface__coll__graph.svg" width="218" height="478"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_interface_1_1_weapon_interface__coll__graph.svg" width="218" height="507"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -107,6 +107,12 @@ Julkiset jäsenfunktiot</h2></td></tr>
 <tr class="memitem:a0fba650c5f1522f7d43d3de7d46090a8"><td class="memItemLeft" align="right" valign="top">virtual unsigned int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_weapon_interface.html#a0fba650c5f1522f7d43d3de7d46090a8">getMinimumTechLvl</a> () const =0</td></tr>
 <tr class="memdesc:a0fba650c5f1522f7d43d3de7d46090a8"><td class="mdescLeft">&#160;</td><td class="mdescRight">getMinimumTechLvl palauttaa equipmentin vaadittavan mintechlevelin, joka vaaditaan kyseisen equipmentin ostoon.  <a href="#a0fba650c5f1522f7d43d3de7d46090a8">Lisää...</a><br /></td></tr>
 <tr class="separator:a0fba650c5f1522f7d43d3de7d46090a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d6c98febde8477d4a8cddfb32cad7c9"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_weapon_interface.html#a4d6c98febde8477d4a8cddfb32cad7c9">isEmpty</a> () const =0</td></tr>
+<tr class="memdesc:a4d6c98febde8477d4a8cddfb32cad7c9"><td class="mdescLeft">&#160;</td><td class="mdescRight">isEmpty  <a href="#a4d6c98febde8477d4a8cddfb32cad7c9">Lisää...</a><br /></td></tr>
+<tr class="separator:a4d6c98febde8477d4a8cddfb32cad7c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a223a6570ae57879e0115cd42914bf1f1"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_weapon_interface.html#a223a6570ae57879e0115cd42914bf1f1">reload</a> (unsigned int amount)=0</td></tr>
+<tr class="memdesc:a223a6570ae57879e0115cd42914bf1f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">reload lataa tämän aseen.  <a href="#a223a6570ae57879e0115cd42914bf1f1">Lisää...</a><br /></td></tr>
+<tr class="separator:a223a6570ae57879e0115cd42914bf1f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_class_interface_1_1_equipment_interface"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_class_interface_1_1_equipment_interface')"><img src="closed.png" alt="-"/>&#160;Julkiset jäsenfunktiot inherited from <a class="el" href="class_interface_1_1_equipment_interface.html">Interface::EquipmentInterface</a></td></tr>
 <tr class="memitem:a247a62ae63dcd3d46a6edc3d3d82b229 inherit pub_methods_class_interface_1_1_equipment_interface"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_equipment_interface.html#a247a62ae63dcd3d46a6edc3d3d82b229">EquipmentInterface</a> ()=default</td></tr>
 <tr class="memdesc:a247a62ae63dcd3d46a6edc3d3d82b229 inherit pub_methods_class_interface_1_1_equipment_interface"><td class="mdescLeft">&#160;</td><td class="mdescRight">Rajapintaluokan oletusrakentaja.  <a href="class_interface_1_1_equipment_interface.html#a247a62ae63dcd3d46a6edc3d3d82b229">Lisää...</a><br /></td></tr>
@@ -135,16 +141,10 @@ Julkiset jäsenfunktiot</h2></td></tr>
 <tr class="memitem:a0aea1133aa31f65439673e62f345b202 inherit pub_methods_class_interface_1_1_equipment_interface"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_equipment_interface.html#a0aea1133aa31f65439673e62f345b202">getBaseEffectValue</a> () const =0</td></tr>
 <tr class="memdesc:a0aea1133aa31f65439673e62f345b202 inherit pub_methods_class_interface_1_1_equipment_interface"><td class="mdescLeft">&#160;</td><td class="mdescRight">getBaseEffectValue  <a href="class_interface_1_1_equipment_interface.html#a0aea1133aa31f65439673e62f345b202">Lisää...</a><br /></td></tr>
 <tr class="separator:a0aea1133aa31f65439673e62f345b202 inherit pub_methods_class_interface_1_1_equipment_interface"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf1ea093c2845a26f07b6288ac178dcf inherit pub_methods_class_interface_1_1_equipment_interface"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_equipment_interface.html#abf1ea093c2845a26f07b6288ac178dcf">isEmpty</a> () const =0</td></tr>
-<tr class="memdesc:abf1ea093c2845a26f07b6288ac178dcf inherit pub_methods_class_interface_1_1_equipment_interface"><td class="mdescLeft">&#160;</td><td class="mdescRight">isEmpty  <a href="class_interface_1_1_equipment_interface.html#abf1ea093c2845a26f07b6288ac178dcf">Lisää...</a><br /></td></tr>
-<tr class="separator:abf1ea093c2845a26f07b6288ac178dcf inherit pub_methods_class_interface_1_1_equipment_interface"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16b6127047a3e932e6c81f4c9b5e66e5 inherit pub_methods_class_interface_1_1_equipment_interface"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interface_1_1_equipment_interface.html#a16b6127047a3e932e6c81f4c9b5e66e5">reload</a> (unsigned int amount)=0</td></tr>
-<tr class="memdesc:a16b6127047a3e932e6c81f4c9b5e66e5 inherit pub_methods_class_interface_1_1_equipment_interface"><td class="mdescLeft">&#160;</td><td class="mdescRight">reload lataa tämän aseen.  <a href="class_interface_1_1_equipment_interface.html#a16b6127047a3e932e6c81f4c9b5e66e5">Lisää...</a><br /></td></tr>
-<tr class="separator:a16b6127047a3e932e6c81f4c9b5e66e5 inherit pub_methods_class_interface_1_1_equipment_interface"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Yksityiskohtainen selite</h2>
 <div class="textblock">
-<p>Määrittely tiedoston <a class="el" href="weaponinterface_8hh_source.html">weaponinterface.hh</a> rivillä <a class="el" href="weaponinterface_8hh_source.html#l00006">6</a>.</p>
+<p>Määrittely tiedoston <a class="el" href="weaponinterface_8hh_source.html">weaponinterface.hh</a> rivillä <a class="el" href="weaponinterface_8hh_source.html#l00011">11</a>.</p>
 </div><h2 class="groupheader">Rakentajien &amp; purkajien dokumentaatio</h2>
 <a id="ad371404b16c907ea172c5565818d8ec0"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad371404b16c907ea172c5565818d8ec0">&sect;&nbsp;</a></span>WeaponInterface()</h2>
@@ -424,6 +424,74 @@ Julkiset jäsenfunktiot</h2></td></tr>
 <p>Toteuttaa luokan <a class="el" href="class_interface_1_1_equipment_interface.html#a3291bb7c169624680e8148243da593b8">Interface::EquipmentInterface</a>.</p>
 
 <p>Toteutettu luokassa <a class="el" href="class_model_1_1_weapon.html#a7959d2cf368b1098c168f3fc669b6717">Model::Weapon</a>.</p>
+
+</div>
+</div>
+<a id="a4d6c98febde8477d4a8cddfb32cad7c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d6c98febde8477d4a8cddfb32cad7c9">&sect;&nbsp;</a></span>isEmpty()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool Interface::WeaponInterface::isEmpty </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>isEmpty </p>
+<dl class="section pre"><dt>Esiehto</dt><dd>Käytetään vain equipmenteille joiden tyyppi on "weapon". </dd></dl>
+<dl class="section return"><dt>Palauttaa</dt><dd>palauttaa bool tyyppisen arvon. </dd></dl>
+
+<p>Toteuttaa luokan <a class="el" href="class_interface_1_1_equipment_interface.html#abf1ea093c2845a26f07b6288ac178dcf">Interface::EquipmentInterface</a>.</p>
+
+</div>
+</div>
+<a id="a223a6570ae57879e0115cd42914bf1f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a223a6570ae57879e0115cd42914bf1f1">&sect;&nbsp;</a></span>reload()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void Interface::WeaponInterface::reload </td>
+          <td>(</td>
+          <td class="paramtype">unsigned int&#160;</td>
+          <td class="paramname"><em>amount</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>reload lataa tämän aseen. </p>
+<dl class="section pre"><dt>Esiehto</dt><dd>Käytetään vain equipmenteille joiden tyyppi on "weapon. </dd></dl>
+<dl class="params"><dt>Parametrit</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">amount</td><td>haluttu ammusmäärä. </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Toteuttaa luokan <a class="el" href="class_interface_1_1_equipment_interface.html#a16b6127047a3e932e6c81f4c9b5e66e5">Interface::EquipmentInterface</a>.</p>
 
 </div>
 </div>

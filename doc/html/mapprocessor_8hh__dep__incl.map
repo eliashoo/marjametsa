@@ -1,11 +1,10 @@
 <map id="Model/mapprocessor.hh" name="Model/mapprocessor.hh">
-<area shape="rect" id="node2" href="$roomgenerator_8hh.html" title="Model/roomgenerator.hh" alt="" coords="493,80,656,107"/>
-<area shape="rect" id="node8" href="$mapprocessor_8cc.html" title="Model/mapprocessor.cc" alt="" coords="771,155,933,181"/>
-<area shape="rect" id="node10" href="$roomgenerator_8cc.html" title="Model/roomgenerator.cc" alt="" coords="957,155,1120,181"/>
-<area shape="rect" id="node3" href="$controller_8cc.html" title="Controller/controller.cc" alt="" coords="595,155,747,181"/>
-<area shape="rect" id="node4" href="$model_8hh.html" title="Model/model.hh" alt="" coords="5,155,120,181"/>
-<area shape="rect" id="node6" href="$model_8cc.html" title="Model/model.cc" alt="" coords="100,229,215,256"/>
-<area shape="rect" id="node7" href="$layoutgenerator_8cc.html" title="Model/layoutgenerator.cc" alt="" coords="195,155,363,181"/>
-<area shape="rect" id="node9" href="$parkspaceinserter_8cc.html" title="Model/parkspaceinserter.cc" alt="" coords="387,155,570,181"/>
-<area shape="rect" id="node5" href="$main_8cc.html" title="main.cc" alt="" coords="7,229,75,256"/>
+<area shape="rect" id="node2" href="$roomgenerator_8hh.html" title="Model/roomgenerator.hh" alt="" coords="476,80,639,107"/>
+<area shape="rect" id="node7" href="$mapprocessor_8cc.html" title="Model/mapprocessor.cc" alt="" coords="595,155,757,181"/>
+<area shape="rect" id="node9" href="$roomgenerator_8cc.html" title="Model/roomgenerator.cc" alt="" coords="781,155,944,181"/>
+<area shape="rect" id="node3" href="$model_8hh.html" title="Model/model.hh" alt="" coords="405,155,520,181"/>
+<area shape="rect" id="node5" href="$model_8cc.html" title="Model/model.cc" alt="" coords="500,229,615,256"/>
+<area shape="rect" id="node6" href="$layoutgenerator_8cc.html" title="Model/layoutgenerator.cc" alt="" coords="5,155,173,181"/>
+<area shape="rect" id="node8" href="$parkspaceinserter_8cc.html" title="Model/parkspaceinserter.cc" alt="" coords="198,155,381,181"/>
+<area shape="rect" id="node4" href="$main_8cc.html" title="main.cc" alt="" coords="407,229,475,256"/>
 </map>

@@ -35,10 +35,10 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "actionscene_8cc.html",
-"class_model_1_1_cyber_teekkari.html#adfe4eb738d7984604cf41f51a9b4e114",
+"class_model_1_1_cyber_teekkari.html#ac1b9d1897cda69da51480021fbf80055",
 "class_model_1_1map_generator.html",
-"class_view_1_1_action_scene_p_c.html#a254ec0a91641cd9f73247e817749ee2c",
-"class_view_1_1_view_side_display_mouse_sensitive_pixmap.html"
+"class_view_1_1_action_scene_p_c.html#a227368ee72f68c5710139587b506e0c8",
+"class_view_1_1_view_side_display_manager.html#af8744ac5c83cd4bd7a085c68f3ed8bd1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

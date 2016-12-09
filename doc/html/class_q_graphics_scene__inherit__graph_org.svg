@@ -20,7 +20,7 @@
 </g>
 <!-- Node1 -->
 <g id="node2" class="node"><title>Node1</title>
-<g id="a_node2"><a xlink:href="class_view_1_1_action_scene.html" target="_top" xlink:title="{View::ActionScene\n|&#45; partyInPlay_\l&#45; playerParty_\l&#45; enemies_\l&#45; deadEnemies_\l&#45; enemySights_\l&#45; blockingTiles_\l&#45; clearTiles_\l&#45; tilesNear_\l&#45; nearbyTilesTimer_\l&#45; formationSpacing_\land 11 more...\l|+ ActionScene()\l+ ~ActionScene()\l+ mouseMoveEvent()\l+ mousePressEvent()\l+ mouseDoubleClickEvent()\l+ mouseReleaseEvent()\l+ wheelEvent()\l+ resizeScene()\l+ clearScene()\l+ setLayout()\land 15 more...\l+ showEndMissionDisplay()\l+ updateNearbyTiles()\l+ shootTheShot()\l+ checkWalkingIntoWalls()\l+ actorWasHit()\l+ updateEnemyLineOfSight()\l+ enemyWandered()\l+ enemyAttacked()\l+ enemyPatrolled()\l+ removeDeadEnemy()\l+ removeDeadActor()\l&#45; addTile()\l&#45; addFloor()\l&#45; addEdge()\l&#45; addWall()\l&#45; addHorizontalPark()\l&#45; addVerticalPark()\l&#45; addGuard()\l&#45; addExit()\l&#45; addVerticalCar()\l&#45; addHorizontalCar()\l}">
+<g id="a_node2"><a xlink:href="class_view_1_1_action_scene.html" target="_top" xlink:title="{View::ActionScene\n|&#45; partyInPlay_\l&#45; playerParty_\l&#45; enemies_\l&#45; deadEnemies_\l&#45; enemySights_\l&#45; blockingTiles_\l&#45; clearTiles_\l&#45; tilesNear_\l&#45; nearbyTilesTimer_\l&#45; formationSpacing_\land 12 more...\l|+ ActionScene()\l+ ~ActionScene()\l+ mouseMoveEvent()\l+ mousePressEvent()\l+ mouseDoubleClickEvent()\l+ mouseReleaseEvent()\l+ wheelEvent()\l+ resizeScene()\l+ clearScene()\l+ setLayout()\land 15 more...\l+ showEndMissionDisplay()\l+ updateNearbyTiles()\l+ shootTheShot()\l+ checkWalkingIntoWalls()\l+ actorWasHit()\l+ updateEnemyLineOfSight()\l+ enemyWandered()\l+ enemyAttacked()\l+ enemyPatrolled()\l+ removeDeadEnemy()\l+ removeDeadActor()\l&#45; addTile()\l&#45; addFloor()\l&#45; addEdge()\l&#45; addWall()\l&#45; addHorizontalPark()\l&#45; addVerticalPark()\l&#45; addGuard()\l&#45; addExit()\l&#45; addVerticalCar()\l&#45; addHorizontalCar()\l}">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-508.5 142,-508.5 142,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="71" y="-496.5" font-family="Helvetica,sans-Serif" font-size="10.00">View::ActionScene</text>
 <polyline fill="none" stroke="black" points="0,-489.5 142,-489.5 "/>
@@ -34,7 +34,7 @@
 <text text-anchor="start" x="8" y="-400.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; tilesNear_</text>
 <text text-anchor="start" x="8" y="-389.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; nearbyTilesTimer_</text>
 <text text-anchor="start" x="8" y="-378.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; formationSpacing_</text>
-<text text-anchor="start" x="8" y="-367.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 11 more...</text>
+<text text-anchor="start" x="8" y="-367.5" font-family="Helvetica,sans-Serif" font-size="10.00">and 12 more...</text>
 <polyline fill="none" stroke="black" points="0,-360.5 142,-360.5 "/>
 <text text-anchor="start" x="8" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ActionScene()</text>
 <text text-anchor="start" x="8" y="-337.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~ActionScene()</text>

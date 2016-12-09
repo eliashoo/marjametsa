@@ -27,7 +27,7 @@ var class_controller_1_1_controller =
     [ "healCyborgRequestMade", "class_controller_1_1_controller.html#a0e639b5d9ae53c104f0f2f02bd5cb860", null ],
     [ "hireCyborgRequestMade", "class_controller_1_1_controller.html#a62223d9cdf2903f3b4193814b1aa5514", null ],
     [ "initParkingHallgenerator", "class_controller_1_1_controller.html#a05a3b0adcfb36a15be2e975c96a92a68", null ],
-    [ "missionStartRequest", "class_controller_1_1_controller.html#a30999ef9e647a6a7ff62db0f5bf7dc3a", null ],
+    [ "missionStartRequest", "class_controller_1_1_controller.html#a34a4b90e0e6be1861aedae51965f645a", null ],
     [ "parkingHallTaken", "class_controller_1_1_controller.html#a8a55f5efa2ba8c1a51ee3e7495e52151", null ],
     [ "parkingHallUpdateRequest", "class_controller_1_1_controller.html#abf0aaeca1c85984595219f6d77dccc59", null ],
     [ "playerDataRequest", "class_controller_1_1_controller.html#a1ed5656c1213511fae192879a7fa327e", null ],

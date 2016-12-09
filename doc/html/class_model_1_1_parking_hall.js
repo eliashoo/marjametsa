@@ -3,7 +3,6 @@ var class_model_1_1_parking_hall =
     [ "ParkingHall", "class_model_1_1_parking_hall.html#ae3f4f5578a86392b4afb2181243886dc", null ],
     [ "ParkingHall", "class_model_1_1_parking_hall.html#adc0fe0056baa7fc341318117fcb1faaf", null ],
     [ "getCarCount", "class_model_1_1_parking_hall.html#acaf8217ee589443ac300f3146bf8bbc9", null ],
-    [ "getEnemyCount", "class_model_1_1_parking_hall.html#a077c7663292d93084bde84869b893ff8", null ],
     [ "getId", "class_model_1_1_parking_hall.html#a66efa6dd5556a9e7e649a15686bac1b5", null ],
     [ "getLatitude", "class_model_1_1_parking_hall.html#a622e40c93fc6de6d204277ea1c30645f", null ],
     [ "getLayout", "class_model_1_1_parking_hall.html#a9d982abdacda463fe73c31f3b1cd9bd7", null ],
